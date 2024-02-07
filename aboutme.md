@@ -11,4 +11,4 @@ I'm a postdoctoral researcher at the Blizard Institute, Queen Mary University of
 
 I am also developing cutting-edge machine-learning pipelines to exploit high-content imaging data for senescent cell classification.
 
-This website is a summary of my bioinformatics experience which includes phenotypic screening, transcriptomics and proteomics. 
+This website is a summary of my bioinformatics experience which includes phenotypic screening, transcriptomic and proteomic analysis. I have a particular interest in using AI to probe complex biological datasets in the context of drug discovery. 
