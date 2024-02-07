@@ -21,9 +21,11 @@ author: Ryan James Wallis, PhD
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - CV: "CV"
-    
+  Coding Experience: "CodingExperience"
+  Publications: "Publications"
+  Wet Lab Experience: "WetLabExperience"
+  Grants: "Grants"
+  
 ################
 # --- Logo --- #
 ################
