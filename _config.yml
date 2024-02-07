@@ -32,10 +32,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/Olivia and Ryan-667.png"
+#avatar: "/assets/img/Olivia and Ryan-667.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+#round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -104,16 +104,16 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#D2691E"
-navbar-text-col: "#FFFFFF"
+navbar-col: "#112D32"
+navbar-text-col: "#6E6658"
 navbar-border-col: "#112573"
-page-col: "#323253"
-text-col: "#FFFFFF"
+page-col: "#254E58"
+text-col: "#F88BDBC"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#D2691E"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#6495ED"
+footer-col: "#112D32"
+footer-text-col: "#6E6658"
+footer-link-col: "#6E6658"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
