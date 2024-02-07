@@ -19,9 +19,9 @@ title: Lab Experience
 ### Primary Cell Culture
 −	Long-term culture of adult primary cells (>200 days)
 
-−	 Models of senescence (RS | OIS | TIS | paracrine)
+−	 Models of senescence (RS , OIS , TIS , paracrine)
 
-−	 Cancer cell lines (MB-468s | MB-231s | BT549s | HCC1937s | HeLas)
+−	 Cancer cell lines (MB-468s , MB-231s , BT549s , HCC1937s , HeLas)
 
 −	3D in vitro models (spheroids)
 
@@ -38,4 +38,4 @@ title: Lab Experience
 
 ### Standard experimental techniques:
 
-−	 Western blot | ELISA | PCR | qPCR 
+−	 Western blot , ELISA , PCR , qPCR 
