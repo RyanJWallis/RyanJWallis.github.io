@@ -4,7 +4,7 @@ title: Grants and Awards
 ---
 ## Grants
 
-−	Multi-Disciplinary Research Themes Pump Priming Award, QMUL - **£4,954** (Nov 2022)       
+−	Multi-Disciplinary Research Themes Pump Priming Award - **£4,954** (Nov 2022)       
 
 −	FMD Staff Awards Nomination - Outstanding Early Career Researcher (Sept 2022)
 
