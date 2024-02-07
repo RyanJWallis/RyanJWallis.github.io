@@ -1,18 +1,15 @@
 ---
 layout: page
 title: My Background
-subtitle: Bioinformatics | Drug Discovery | Senescence
+subtitle: Bioinformatics | Drug Discovery | Machine Learning
 ---
-![Crepe](https://RyanJWallis.github.io/assets/img/crepe.jpg)
+![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Olivia and Ryan-667.png.jpg){: .mx-auto.d-block :}
 
 
-My name is Inigo Montoya. I have the following qualities:
+###My name is Ryan Wallis
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Im a postdoctoral researcher at the Blizard Institute, Queen Mary University of London, using high throughput drug screening to identify novel pro-senescence compounds in breast cancer.
 
-What else do you need?
+I completed my PhD at the Blizard Institute investigating the role of extracellular vesicles in senescence.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My early career background was in Pharmacology (BSc) and Drug Discovery (MSc) at King’s College London including industrial placement at MedImmune (Cambridge).
