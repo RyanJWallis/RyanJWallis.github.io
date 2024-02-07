@@ -1,10 +1,7 @@
 ---
 layout: page
 title: My Background
-subtitle: >
-  PhD (Cell Biology) |
-  MSc (Drug Discovery) |
-  BScTest (Pharmacology)
+subtitle: PhD | MSc | BSc 
 ---
 ![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Olivia and Ryan-667.png){: .mx-auto.d-block :}
 
