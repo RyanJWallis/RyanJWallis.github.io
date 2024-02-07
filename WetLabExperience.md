@@ -8,11 +8,11 @@ title: Lab Experience
 
 −	Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
 
-−	Delivered a lead series which has progressed into an evaluation phase with a potential commercial partner (NDA protection) whilst balancing commercial and scientific challenges.
+−	Delivered a lead series which has progressed into an evaluation phase with a commercial partner (NDA protection) balancing commercial and scientific challenges.
 
 
 ### Drug Screening and High Content Automated Microscopy
-−	Use of IN Cell Analyser 2200 and 6000 (GE) for automated image acquisition (including confocal)
+−	Use of IN Cell Analyser 2200/6000 for automated image acquisition (incl. confocal)
 
 −		Compound screening in 384-well plate format in multiple cancer cell lines
 
