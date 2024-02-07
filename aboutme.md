@@ -4,7 +4,7 @@ title: My Background
 subtitle: >
   PhD (Cell Biology) |
   MSc (Drug Discovery) |
-  BSc (Pharmacology)
+  BScTest (Pharmacology)
 ---
 ![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Olivia and Ryan-667.png){: .mx-auto.d-block :}
 
