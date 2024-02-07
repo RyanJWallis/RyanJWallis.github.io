@@ -1,14 +1,14 @@
 ---
 layout: page
 title: My Background
-subtitle: Bioinformatics | Drug Discovery | Machine Learning
+subtitle: Phd (Cell Biology) | MSc(Drug Discovery) | BSc (Pharmacology)
 ---
 ![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Olivia and Ryan-667.png){: .mx-auto.d-block :}
 
-###My name is Ryan Wallis
+### My name is Ryan Wallis
 
-Im a postdoctoral researcher at the Blizard Institute, Queen Mary University of London, using high throughput drug screening to identify novel pro-senescence compounds in breast cancer.
+I'm a postdoctoral researcher at the Blizard Institute, Queen Mary University of London, using high throughput drug screening to identify novel pro-senescence compounds in breast cancer. 
 
-I completed my PhD at the Blizard Institute investigating the role of extracellular vesicles in senescence.
+I am also developing cutting-edge machine-learning pipelines to exploit high-content imaging data for senescent cell classification.
 
-My early career background was in Pharmacology (BSc) and Drug Discovery (MSc) at King’s College London including an industrial placement at MedImmune (Cambridge).
+This website is a summary of my bioinformatics experience which includes phenotypic screening, transcriptomics and proteomics. 
