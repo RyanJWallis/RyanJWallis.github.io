@@ -14,28 +14,28 @@ title: Lab Experience
 ### Drug Screening and High Content Automated Microscopy
 −	Use of IN Cell Analyser 2200 and 6000 (GE) for automated image acquisition (including confocal)
 
-−	Compound screening in 384-well plate format in multiple cancer cell lines
+−		Compound screening in 384-well plate format in multiple cancer cell lines
 
 ### Primary Cell Culture
-- Long-term culture of adult primary cells (>200 days)
+−	Long-term culture of adult primary cells (>200 days)
 
-- Models of senescence (RS | OIS | TIS | paracrine)
+−	 Models of senescence (RS | OIS | TIS | paracrine)
 
-- Cancer cell lines (MB-468s | MB-231s | BT549s | HCC1937s | HeLas)
+−	 Cancer cell lines (MB-468s | MB-231s | BT549s | HCC1937s | HeLas)
 
 - 3D in vitro models (spheroids)
 
-- Antibiotic-free cell culture
+−	Antibiotic-free cell culture
   
 ### EV Isolation and Characterisation Techniques
-- Ultracentrifugation
+−	Ultracentrifugation
   
-- Size- exclusion chromatography
+−	 Size- exclusion chromatography
   
-- Nanoparticle tracking analysis
+−	Nanoparticle tracking analysis
   
-- Nano Flow Cytometry
+−	 Nano Flow Cytometry
 
 ### Standard experimental techniques:
 
-- Western blot | ELISA | PCR | qPCR 
+−	 Western blot | ELISA | PCR | qPCR 
