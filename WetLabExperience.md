@@ -23,7 +23,7 @@ title: Lab Experience
 
 −	 Cancer cell lines (MB-468s | MB-231s | BT549s | HCC1937s | HeLas)
 
-- 3D in vitro models (spheroids)
+−	3D in vitro models (spheroids)
 
 −	Antibiotic-free cell culture
   
