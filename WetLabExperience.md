@@ -2,11 +2,11 @@
 layout: page
 title: Lab Experience
 ---
-Whilst I am looking to transition into a bioinformatic role, I also have extensive wet lab experience. 
+**Whilst I am looking to transition into a bioinformatic role, I also have extensive wet lab experience.**
 
 ### Drug Discovery
 
-−	Engaged in numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
+−	Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
 
 −	Delivered a lead series which has progressed into an evaluation phase with a potential commercial partner (NDA protection) whilst balancing commercial and scientific challenges.
 
@@ -14,16 +14,16 @@ Whilst I am looking to transition into a bioinformatic role, I also have extensi
 ### Drug Screening and High Content Automated Microscopy
 −	Use of IN Cell Analyser 2200 and 6000 (GE) for automated image acquisition (including confocal)
 
-−	Pro-senescence compound screening in 384-well plate format in multiple cancer cell lines
+−	Compound screening in 384-well plate format in multiple cancer cell lines
 
 ### Primary Cell Culture
 - Long-term culture of adult primary cells (>200 days)
 
-- Models of senescence (Replicative, oncogene-induced, therapy-induced, paracrine)
+- Models of senescence (RS | OIS | TIS | paracrine)
 
-- Cancer cell lines (MB-468s, MB-231s, BT549s, HCC1937s, and HeLas)
+- Cancer cell lines (MB-468s | MB-231s | BT549s | HCC1937s | HeLas)
 
-- 3D in vitro models – Matrigel scaffold-based spheroids
+- 3D in vitro models (spheroids)
 
 - Antibiotic-free cell culture
   
@@ -38,4 +38,4 @@ Whilst I am looking to transition into a bioinformatic role, I also have extensi
 
 ### Standard experimental techniques:
 
-- Western blot, ELISA, PCR, and qPCR 
+- Western blot | ELISA | PCR | qPCR 
