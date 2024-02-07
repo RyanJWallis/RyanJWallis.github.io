@@ -15,7 +15,7 @@ Development of a machine learning tool for senescence classification based on pr
 
 SAMP-Score has been used to identify novel compounds that initiate a senescence response in cancer cells, demonstrating its utility as a drug discovery tool. 
 
-** ML Techniques: Regression (Logistic), Regularisation (Lasso, Elastic Net), Support vector machines (SVM), Decision trees (Random Forrest), Dimensionality reduction (MDA), Neural networks, Ensemble model stacking and Hierarchical clustering **
+**ML Techniques: Regression (Logistic), Regularisation (Lasso, Elastic Net), Support vector machines (SVM), Decision trees (Random Forrest), Dimensionality reduction (MDA), Neural networks, Ensemble model stacking and Hierarchical clustering**
 
 **_Paper in Preparation_**
 
