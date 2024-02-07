@@ -10,7 +10,7 @@ title: Grants and Awards
 
 −	Event funding for senescence symposium - **£1,500** (Feb 2022)
 
-−	The Medical College of Saint Bartholomew’s Hospital Trust (PhD Extension) - **£27,695** (Dec 2018)
+−	The Medical College of Saint Bartholomew’s Hospital Trust - **£27,695** (Dec 2018)
 
 −	1st Poster Prize, London Inflammation Network (Sept 2018)
 
