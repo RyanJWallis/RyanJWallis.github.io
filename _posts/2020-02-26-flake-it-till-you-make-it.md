@@ -4,7 +4,6 @@ title: Senescence-associated morphological profiles (SAMPs)
 subtitle: High Content Assessment of Senescence
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/SAMP3.png
-share-img: /assets/img/path.jpg
 tags: [R,Phenotypic Profiling]
 author: Ryan J Wallis, PhD
 ---
