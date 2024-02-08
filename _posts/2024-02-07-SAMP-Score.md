@@ -4,7 +4,7 @@ title: SAMP-Score
 subtitle: Machine learning classifier for identifying novel pro-senescence compounds in p16 positive cancers
 thumbnail-img: /assets/img/SAMP_Score.png
 tags: [R,Phenotypic Profiling,Machine Learning]
-author: Ryan J Wallis, PhD
+author: Ryan James Wallis, PhD
 ---
 
 ![SAMP_SCORE](https://RyanJWallis.github.io/assets/img/SAMPScore_Full.png){: .mx-auto.d-block :}
