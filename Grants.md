@@ -21,7 +21,8 @@ title: Grants and Awards
 −	Selected abstracts / invited talks at 9 international/national conferences/symposia
 
 _Not Funded_
-−	Wellcome Trust ECR Fellowship – £1.2M (Shortlisted for interview – not funded) (Oct 2023)
+
+−	Wellcome Trust ECR Fellowship – £1.2M (Shortlisted for interview) (Oct 2023)
 
 
 
