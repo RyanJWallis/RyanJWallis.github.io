@@ -19,4 +19,4 @@ SAMP-Score has been used to identify novel compounds that initiate a senescence 
 
 **_Paper in Preparation_**
 
-<strong><a href="https://pubmed.ncbi.nlm.nih.gov/35580013/">Github Link</a>
+**_Github Link In Progress_**
