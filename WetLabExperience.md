@@ -11,7 +11,7 @@ title: Lab Experience
 −	Delivered a lead series which has progressed into an evaluation phase with a commercial partner (NDA protection) balancing commercial and scientific challenges.
 
 
-### Drug Screening and High Content Automated Microscopy
+### Screening and High Content Automated Microscopy
 −	Use of IN Cell Analyser 2200/6000 for automated image acquisition (incl. confocal)
 
 −		Compound screening in 384-well plate format in multiple cancer cell lines
@@ -36,6 +36,6 @@ title: Lab Experience
   
 −	 Nano Flow Cytometry
 
-### Standard experimental techniques:
+### Standard molecular biology techniques:
 
 −	 Western blot , ELISA , PCR , qPCR 
