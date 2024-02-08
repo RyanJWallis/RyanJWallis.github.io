@@ -7,8 +7,6 @@ tags: [R,Phenotypic Profiling,Machine Learning]
 author: Ryan James Wallis, PhD
 ---
 
-![SAMP_SCORE](https://RyanJWallis.github.io/assets/img/SAMPScore_Full.png){: .mx-auto.d-block :}
-
 Development of a machine learning tool for senescence classification based on previous SAMP methodology. SAMP-Score has been built and utilised through analysis of high throughput screening data and multiparameter phenotypic analysis:
 
 - Genome-wide siRNA (x63 384-well plates – 24,122 treatments).
@@ -18,6 +16,8 @@ Development of a machine learning tool for senescence classification based on pr
 SAMP-Score has been used to identify novel compounds that initiate a senescence response in cancer cells, demonstrating its utility as a drug discovery tool. 
 
 **ML Techniques: Regression (Logistic), Regularisation (Lasso, Elastic Net), Support vector machines (SVM), Decision trees (Random Forrest), Dimensionality reduction (MDA), Neural networks, Ensemble model stacking and Hierarchical clustering**
+
+![SAMP_SCORE](https://RyanJWallis.github.io/assets/img/SAMPScore_Full.png){: .mx-auto.d-block :}
 
 **_Paper in Preparation_**
 
