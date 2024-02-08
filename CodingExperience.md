@@ -35,8 +35,9 @@ subtitle: R (5+ years - Fluent) | Python (2 months – Beginner)
 
 ## Transcriptomic and Proteomic Analysis
 
-−	Supported development of sc-RNAseq senescence classification ML tool (Hughes et al., bioRxiv).
-  _Contributed to manuscript through coding troubleshooting (including use of Seurat objects and Monocle trajectory analysis) and conceptual development (ML focus)_
+−	Supported development of sc-RNAseq senescence classification ML tool (Hughes et al., bioRxiv 2023).
+
+   - _Contributed to manuscript through coding troubleshooting (including use of Seurat objects and Monocle trajectory analysis) and conceptual development (ML focus)_
   
 −	Analysis/visualisation of proteomics data from conditioned media and exosomes. 
 
