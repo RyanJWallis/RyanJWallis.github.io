@@ -2,7 +2,7 @@
 layout: post
 title: Proteomic assessment of senescent exosomes
 subtitle: Mass spectrometry analysis and visualisation
-thumbnail-img: /assets/img/Exosomes_1.png
+thumbnail-img: /assets/img/Exosomes_2.png
 tags: [R,Phenotypic Profiling,Machine Learning]
 author: Ryan James Wallis, PhD
 ---
@@ -11,7 +11,7 @@ This project was my introduction to bioinformatics. I utilised R/RStudio to anal
 
 **ML Techniques: Gene ontology, PCA, hierarchical clustering**
 
-![SAMP_SCORE](https://RyanJWallis.github.io/assets/img/Exosomes_2.png){: .mx-auto.d-block :}
+![SAMP_SCORE](https://RyanJWallis.github.io/assets/img/Exosomes_1.png){: .mx-auto.d-block :}
 
 <strong><a href="https://pubmed.ncbi.nlm.nih.gov/33659050/">Go to the Paper</a>
 
