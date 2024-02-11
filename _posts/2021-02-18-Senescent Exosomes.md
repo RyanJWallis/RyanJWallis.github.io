@@ -2,7 +2,7 @@
 layout: post
 title: Proteomic assessment of senescent exosomes
 subtitle: Mass spectrometry analysis and visualisation
-thumbnail-img: /assets/img/Exosomes_2.png
+thumbnail-img: /assets/img/Exosomes_1.png
 tags: [R,Phenotypic Profiling,Machine Learning]
 author: Ryan James Wallis, PhD
 ---
