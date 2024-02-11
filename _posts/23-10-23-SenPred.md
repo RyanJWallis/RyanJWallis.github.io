@@ -11,7 +11,8 @@ I collaborated on this work utilising machine learning to develop a classificati
 
 The work demonstrates that 2D _in vitro_ models of senescence poorly recapitulate _in vivo_ conditions. However, using complex 3D cellular models combined with sophisticated sc-RNAseq analysis provides a more reliable means of detecting senescence. The work also demonstrates the value of high dimensionality phenotype assessment as opposed to reliance on a smaller number of limited "hallmarks". 
 
-**ML Techniques: Supervised ML, Dimensionality reduction (TNSE / UMAP), PCA, **
+**ML Techniques: Supervised ML, Dimensionality reduction (TNSE / UMAP), PCA, Multiple Discriminant Analysis,  Support Vector
+Machines, K-nearest neighbour, Generalised Linear Model**
 
 ![scPred](https://RyanJWallis.github.io/assets/img/SenPred.png){: .mx-auto.d-block :}
 
