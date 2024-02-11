@@ -3,7 +3,7 @@ layout: post
 title: SenPred
 subtitle: sc-RNAseq machine learning tool for senescence classification
 thumbnail-img: /assets/img/SenPred.png
-tags: [R,sc-RNAseq, transcriptomics, Supervised Machine Learning]
+tags: [R,sc-RNAseq, Transcriptomics, Supervised Machine Learning]
 author: Ryan J Wallis, PhD
 ---
 
