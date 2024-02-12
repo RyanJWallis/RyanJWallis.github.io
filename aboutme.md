@@ -3,7 +3,7 @@ layout: page
 title: My Background
 subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 ---
-![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Ryan_2.jpeg){: .mx-auto.d-block :}
+![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Ryan_2.jpg){: .mx-auto.d-block :}
 
 ### My name is Ryan Wallis
 
