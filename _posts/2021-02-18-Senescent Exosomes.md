@@ -7,7 +7,7 @@ tags: [R, Proteomics, Mass Spectrometry, Machine Learning, Unsupervised Machine 
 author: Ryan James Wallis, PhD
 ---
 
-This project was my introduction to bioinformatics. I utilised R/RStudio to analyse and visualise 3 large-scale mass spectrometry datasets through a combination of heatmaps, volcano plots, gene ontology, hierarchical clustering and principle content analysis (PCA). I published the majority of the work in the Journal of Extracellular Vesicles. The final dataset remains unpublished but is publicly available via the link to my thesis.  
+This project was my introduction to bioinformatics. I utilised R/RStudio to analyse and visualise 3 large-scale mass spectrometry datasets through a combination of heatmaps, volcano plots, gene ontology, hierarchical clustering and principal content analysis (PCA). I published the majority of the work in the Journal of Extracellular Vesicles. The final dataset remains unpublished but is publicly available via the link to my thesis.  
 
 **ML Techniques: Gene ontology, PCA, hierarchical clustering**
 
