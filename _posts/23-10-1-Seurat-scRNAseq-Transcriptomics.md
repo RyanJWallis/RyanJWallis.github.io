@@ -7,9 +7,7 @@ tags: [R,sc-RNAseq, Transcriptomics, Unsupervised Machine Learning]
 author: Ryan James Wallis, PhD
 ---
 
-Seurat is an R package frequently employed for the QC, analysis, and exploration of single-cell RNA-seq data.
-
-Here, I have explored several example datasets to gain familiarity analysing high-dimensional transcriptomics data. 
+Seurat is an R package frequently employed for the QC, analysis, and exploration of single-cell RNA-seq data. Here, I have explored several example datasets to gain familiarity analysing high-dimensional transcriptomics data. 
 
 This provided experience working with these types of data and allowed me to support the subsequent SenPred ML classification project. 
 
