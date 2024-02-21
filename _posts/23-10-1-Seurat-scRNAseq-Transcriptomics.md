@@ -26,5 +26,5 @@ This provided experience working with these types of data and allowed me to supp
 - Identified cell clusters representing different types.
 - Visualized clusters and marker genes.
 - Detected differential gene expression.
-- - Integrated multiple datasets.
+- Integrated multiple datasets.
 
