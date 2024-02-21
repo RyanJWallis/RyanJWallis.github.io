@@ -17,4 +17,4 @@ This project was my introduction to bioinformatics. I utilised R/RStudio to anal
 
 <strong><a href="https://qmro.qmul.ac.uk/xmlui/handle/123456789/71085?show=full">Thesis Link</a>
 
-**_Github Link In Progress_**
+<strong><a href="https://github.com/RyanJWallis/Proteomic-assessment-of-senescence-exosomes">GitHub Link</a>
