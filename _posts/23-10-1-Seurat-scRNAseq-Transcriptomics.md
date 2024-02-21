@@ -3,7 +3,7 @@ layout: post
 title: Seurat-scRNAseq-Transcriptomics
 subtitle:  Analysis of example scRNAseq datasets from satijalab
 thumbnail-img: /assets/img/Seurat_1.png
-tags: [R,Phenotypic Profiling, Unsupervised Machine Learning]
+tags: [R,sc-RNAseq, Transcriptomics, Unsupervised Machine Learning]
 author: Ryan James Wallis, PhD
 ---
 
