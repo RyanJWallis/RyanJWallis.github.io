@@ -2,7 +2,7 @@
 layout: post
 title: Identifying Senolytic Subpopulation Sensitivity
 subtitle: Cluster analysis to identify senescence subpopulation vulnerability to senolytic clearance
-thumbnail-img: /assets/img/Cluster_1.png
+thumbnail-img: /assets/img/Cluster_3.png
 tags: [R,Phenotypic Profiling, Unsupervised Machine Learning]
 author: Ryan James Wallis, PhD
 ---
