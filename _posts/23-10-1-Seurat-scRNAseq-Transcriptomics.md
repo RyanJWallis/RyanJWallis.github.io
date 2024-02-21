@@ -14,17 +14,15 @@ Here, I have explored several example datasets to gain familiarity analysing hig
 This provided experience working with these types of data and allowed me to support the subsequent SenPred ML classification project. 
 
 ## Methods
-- Quality control
-- Normalization
+- Quality control / Normalisation
 - Dimensionality reduction
-- Clustering
-- Visualization
+- Clustering / Visualisation
 - Differential expression analysis
 - Integration
 
 ## Outputs
 - Identified cell clusters representing different types.
-- Visualized clusters and marker genes.
+- Visualised clusters and marker genes.
 - Detected differential gene expression.
 - Integrated multiple datasets.
 
