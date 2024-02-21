@@ -2,7 +2,7 @@
 layout: post
 title: Identifying Senolytic Subpopulation Sensitivity
 subtitle: Cluster analysis to identify senescence subpopulation vulnerability to senolytic clearance
-thumbnail-img: /assets/img/Clusters.png
+thumbnail-img: /assets/img/Cluster_1.png
 tags: [R,Phenotypic Profiling, Unsupervised Machine Learning]
 author: Ryan James Wallis, PhD
 ---
@@ -11,7 +11,7 @@ Having previously shown that heterogeneity exists within senescent cells and tha
 
 **ML Techniques: K-means clustering, Principal component analysis (PCA) Hierarchical clustering, Dimensionality reduction (TNSE / UMAP)**
 
-![Clustering_2](https://RyanJWallis.github.io/assets/img/Clustering_2.png){: .mx-auto.d-block :}
+![Cluster_2](https://RyanJWallis.github.io/assets/img/Cluster_2.png){: .mx-auto.d-block :}
 
 **_Paper in Review_**
 
