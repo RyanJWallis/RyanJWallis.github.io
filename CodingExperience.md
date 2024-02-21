@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding Experience
-subtitle: R (5+ years - Fluent) | Python (2 months – Beginner)
+subtitle: R (5+ years - Fluent) | Python (Beginner)
 ---
 
 ## Formal Courses
