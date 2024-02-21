@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seurat-scRNAseq-Transcriptomics
+title: sc-RNAseq Transcriptomics (Seurat)
 subtitle:  Analysis of example scRNAseq datasets from satijalab
 thumbnail-img: /assets/img/Seurat_1.png
 tags: [R,sc-RNAseq, Transcriptomics, Unsupervised Machine Learning]
