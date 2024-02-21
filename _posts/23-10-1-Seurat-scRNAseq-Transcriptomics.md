@@ -11,6 +11,7 @@ Seurat is an R package frequently employed for the QC, analysis, and exploration
 
 This provided experience working with these types of data and allowed me to support the subsequent SenPred ML classification project. 
 
+
 ## Methods
 - Quality control / Normalisation
 - Dimensionality reduction
@@ -24,3 +25,6 @@ This provided experience working with these types of data and allowed me to supp
 - Detected differential gene expression.
 - Integrated multiple datasets.
 
+![Seurat_2](https://RyanJWallis.github.io/assets/img/Seurat_2.png){: .mx-auto.d-block :}
+
+<strong><a href="https://github.com/RyanJWallis/Seurat-scRNAseq-Transcriptomics">GitHub Link</a>
