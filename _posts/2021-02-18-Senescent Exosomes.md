@@ -4,7 +4,7 @@ title: Proteomic assessment of senescence exosomes
 subtitle: Mass spectrometry analysis and visualisation
 thumbnail-img: /assets/img/Exosomes_2.png
 tags: [R, Proteomics, Mass Spectrometry, Machine Learning, Unsupervised Machine Learning]
-author: Ryan James Wallis, PhD
+author: Ryan J Wallis, PhD
 ---
 
 This project was my introduction to bioinformatics. I utilised R/RStudio to analyse and visualise 3 large-scale mass spectrometry datasets through a combination of heatmaps, volcano plots, gene ontology, hierarchical clustering and principal component analysis (PCA). I published the majority of the work in the Journal of Extracellular Vesicles. The final dataset remains unpublished but is publicly available via the link to my thesis.  
