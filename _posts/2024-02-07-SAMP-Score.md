@@ -4,7 +4,7 @@ title: SAMP-Score
 subtitle: Machine learning classifier for identifying novel pro-senescence compounds in p16 positive cancers
 thumbnail-img: /assets/img/SAMP_Score.png
 tags: [R,Phenotypic Profiling, Supervised Machine Learning]
-author: Ryan James Wallis, PhD
+author: Ryan J Wallis, PhD
 ---
 
 Development of a machine learning tool for senescence classification based on previous SAMP methodology. SAMP-Score has been built and utilised through analysis of high throughput screening data and multiparameter phenotypic analysis:
