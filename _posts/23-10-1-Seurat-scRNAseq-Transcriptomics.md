@@ -4,7 +4,7 @@ title: sc-RNAseq Transcriptomics (Seurat)
 subtitle:  Analysis of example scRNAseq datasets from satijalab
 thumbnail-img: /assets/img/Seurat_1.png
 tags: [R,sc-RNAseq, Transcriptomics, Unsupervised Machine Learning]
-author: Ryan James Wallis, PhD
+author: Ryan J Wallis, PhD
 ---
 
 Seurat is an R package frequently employed for the QC, analysis, and exploration of single-cell RNA-seq data. Here, I have explored several example datasets to gain familiarity analysing high-dimensional transcriptomics data. 
