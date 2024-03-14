@@ -5,15 +5,15 @@ subtitle: R (5+ years - Fluent) | Python (Intermediate)
 ---
 
 ## Formal Courses
-−	DataCamp “Data Scientist with R” track (88-hour online course).
+− DataCamp “Data Scientist with R” track (88-hour online course).
 
-−	Biochemical society “R for Biochemists 101” (5-week online introduction to R).
+− Biochemical society “R for Biochemists 101” (5-week online introduction to R).
 
-−	LinkedIn Learning “Become a Data Scientist” (17hr introductory course).
+− LinkedIn Learning “Become a Data Scientist” (17hr introductory course).
 
-−	DataCamp “Data Analyst with Python” track (36-hour online course).
+− DataCamp “Data Analyst with Python” track (36-hour online course).
 
--  DataCamp "Machine Learning Fundamentals with Python" track (16-hour online course).
+- DataCamp "Machine Learning Fundamentals with Python" track (16-hour online course).
 
 ## Phenotypic Screening 
 −	Extensive use of R to analyse and visualise high content image analysis (HCA) data.
