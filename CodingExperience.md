@@ -13,7 +13,7 @@ subtitle: R (5+ years - Fluent) | Python (Intermediate)
 
 − DataCamp “Data Analyst with Python” track (36-hour online course).
 
-- DataCamp "Machine Learning Fundamentals with Python" track (16-hour online course).
+−  DataCamp "Machine Learning Fundamentals with Python" track (16-hour online course).
 
 ## Phenotypic Screening 
 −	Extensive use of R to analyse and visualise high content image analysis (HCA) data.
