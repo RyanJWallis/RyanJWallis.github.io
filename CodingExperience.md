@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coding Experience
-subtitle: R (5+ years - Fluent) | Python (Beginner)
+subtitle: R (5+ years - Fluent) | Python (Intermediate)
 ---
 
 ## Formal Courses
@@ -11,7 +11,9 @@ subtitle: R (5+ years - Fluent) | Python (Beginner)
 
 −	LinkedIn Learning “Become a Data Scientist” (17hr introductory course).
 
-−	Enrolled on DataCamp “Data Analyst with Python” track (36-hour online course).
+−	“Data Analyst with Python” track (36-hour online course).
+
+-  Machine Learning Fundamentals with Python (16-hour online course).
 
 ## Phenotypic Screening 
 −	Extensive use of R to analyse and visualise high content image analysis (HCA) data.
