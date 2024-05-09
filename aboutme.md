@@ -7,7 +7,9 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 
 ### My name is Ryan Wallis
 
-I'm a postdoctoral researcher at the Blizard Institute, Queen Mary University of London, using high throughput drug screening to identify novel pro-senescence compounds in breast cancer. 
+I am the Phenotypic Screening Facility Deputy Manager at the Blizard Institute (QMUL). I support researchers using automated high throughput microscopes (INCA 2200 & 6000), automated slide multiplex imaging (Cell DIVE) and staining (BAB200 & Leica BOND RXm), liquid handling robotics (Cybio Felix) and automated cell seeding (Thermo MultiDrop). I also provide bioinformatics and data analysis support using automated high-content (Developer ToolBox, INCarta, MetaXpress) and multiplexed (HALO) image analysis software. 
+
+I have a particular interest in integrating machine learning within high-content imaging workflows with a focus on multiparametric morphological analysis.
 
 I am also developing cutting-edge machine-learning pipelines to exploit high-content imaging data for senescent cell classification.
 
