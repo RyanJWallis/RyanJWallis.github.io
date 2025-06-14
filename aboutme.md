@@ -15,7 +15,7 @@ My role involves supporting users from both academia and industry across a wide 
 - Automated slide staining and robotic automation: **Leica BOND RX,  BAB200, PAA plate handlers**  
 - Automated high-throughput microscopy: **INCA 2200 & 6000**  
 - Liquid handling robotics: **Cybio Felix and Thermo MultiDrop**  
-- Digital pathology and high-content image analysis: **HALO, Developer ToolBo and INCarta**
+- Digital pathology and high-content image analysis: **HALO, Developer ToolBox and INCarta**
 
 I also established and continue to manage the facility’s bioinformatics service, providing expertise for both basic science and clinical projects, such as:
 
