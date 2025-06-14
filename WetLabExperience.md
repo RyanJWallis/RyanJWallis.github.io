@@ -7,6 +7,8 @@ title: Lab Experience
 ### Spatial Profiling
 - Experience with multiplexed spatial imaging platforms including **Cell DIVE** and **PhenoCycler Fusion**.
 - Have run projects dealing with high volumes of slides (50+ Cell DIVE) or biomarkers (60-plex Phenocycler)
+  
+--- 
 
 ### Drug Discovery and Screening
 - Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
