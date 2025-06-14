@@ -24,16 +24,16 @@ I have a particular interest in applying machine learning (ML) and artificial in
 - **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a> <br>
 - Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia (_manuscript in preparation_)
 
-#### ML Reviews
-<a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> ML assessment of senescence morphology (PubMed ID: 39187617)</a><br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/37016180/" target="_blank"> ML techniques in senescence research (PubMed ID: 37016180)</a>
+#### ML Reviews:
+- <a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> ML assessment of senescence morphology (PubMed ID: 39187617)</a><br>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/37016180/" target="_blank"> ML techniques in senescence research (PubMed ID: 37016180)</a>
 
 ### High-Content Image Analysis
 I have extensive experience analysing large-scale imaging data from both compound and genetic screens, as well as developing tools for drug discovery. 
 
 #### Techniques
-**Analysis**: Z-Scores, cluster-analysis, IC50s, batch normalisation <br>
-**Visualisations**: Heatmaps, frequency distributions, dimensionality reduction (UMAP/TSNE)
+- **Analysis**: Z-Scores, cluster-analysis, IC50s, batch normalisation <br>
+- **Visualisations**: Heatmaps, frequency distributions, dimensionality reduction (UMAP/TSNE)
 
 #### Projects:
 - Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a> <br>
@@ -41,7 +41,7 @@ I have extensive experience analysing large-scale imaging data from both compoun
 - Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub </a>
 
 #### HCA Reviews
-<a href="https://pubmed.ncbi.nlm.nih.gov/37793342/" target="_blank"> CRISPR Screening in Senescence Drug Discovery (PubMed ID: 37793342)</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/37793342/" target="_blank"> CRISPR Screening in Senescence Drug Discovery (PubMed ID: 37793342)</a>
 
 ### Spatial Biology
 
