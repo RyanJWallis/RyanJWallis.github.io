@@ -9,13 +9,14 @@ I established and lead the phenotypic screening facility’s bioinformatics serv
 
 I specialise in deriving insights from complex imaging and omics datasets and in developing scalable, reproducible analysis pipelines to advance cutting-edge research.
 
-I also promote best practice and version control through the <a href="https://github.com/Phenotypic-Screening-QMUL" target="_blank">phenotypic screening facility GitHub</a>
+I also promote best practice and version control through the <a href="https://github.com/Phenotypic-Screening-QMUL" target="_blank"> facility github</a>
 
 ### Machine Learning (ML) and Artificial Intelligence (AI)
 I have a particular interest in applying machine learning (ML) and artificial intelligence (AI) to solve complex biological problems and have successfully implemented these approaches across diverse data types.
 
 #### Techniques:
 **Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks
+
 **Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
 
 #### Projects:
@@ -26,8 +27,8 @@ I have a particular interest in applying machine learning (ML) and artificial in
 - Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia (_manuscript in preparation_)
 
 #### Topic Reviews
-<a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> Machine learning classifier for senescence (PubMed ID: 39187617)</a><br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/37016180/" target="_blank"> Phenotypic profiling of senescent cells (PubMed ID: 37016180)</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> ML assessment of senescence morphology (PubMed ID: 39187617)</a><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37016180/" target="_blank"> ML techniques in senescence research (PubMed ID: 37016180)</a>
 
 ### High-Content Image Analysis
 I have extensive experience analysing large-scale imaging data from both compound and genetic screens, as well as developing tools for drug discovery. 
