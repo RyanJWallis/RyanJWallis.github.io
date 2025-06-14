@@ -1,47 +1,35 @@
 ---
 layout: page
-title: Coding Experience
-subtitle: R (5+ years - Fluent) | Python (Intermediate)
+title: Bioinformatics Experience
+subtitle: R (Fluent) | Python (Intermediate)
 ---
 
-## Formal Courses
-− DataCamp “Data Scientist with R” track (88-hour online course).
+### Bioinformatics Service
+I established and lead the phenotypic screening facility’s bioinformatics service, providing bespoke computational support to academic and industry users. This chargeable service supports a wide range of life science disciplines, including cancer biology, immunology, neuroscience, developmental biology, and skin research.
 
-− Biochemical society “R for Biochemists 101” (5-week online introduction to R).
+I specialise in deriving insights from complex imaging and omics datasets and in developing scalable, reproducible analysis pipelines to advance cutting-edge research.
 
-− LinkedIn Learning “Become a Data Scientist” (17hr introductory course).
+I also promote best practice and version control through the facility github page
 
-− DataCamp “Data Analyst with Python” track (36-hour online course).
+### Machine Learning (ML) and Artificial Intelligence (AI)
+I have a particular interest in applying machine learning (ML) and artificial intelligence (AI) to solve complex biological problems and have successfully implemented these approaches across diverse data types.
 
-−  DataCamp "Machine Learning Fundamentals with Python" track (16-hour online course).
+#### Techniques:
+**Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks
+**Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA), UMAP/TSNE
 
-## Phenotypic Screening 
-−	Extensive use of R to analyse and visualise high content image analysis (HCA) data.
+#### Projects:
+**SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a>
 
-−	Analysis of multiple large-scale screening datasets (genetic and compound – 20,000+ treatments)
+**SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a>
 
-−	HCA data visualisation through heatmaps, frequency distributions, and dimensionality reduction.
+Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia
 
-−	Development of standardised analysis pipelines for screening data via HCA protocols and R.
+#### Topic Reviews
+<a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> Machine learning classifier for senescence (PubMed ID: 39187617)</a><br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37016180/" target="_blank"> Phenotypic profiling of senescent cells (PubMed ID: 37016180)</a>
 
-## Multiparameter Phenotypic Profiling (“Phenomics”)
-−	Produced publication (Aging 2022) showing phenotypic profiles are a hallmark of senescence.
 
-−	Developed machine learning classification tool for compound screening (in preparation).
-
-−	Developed phenocopying methodology to genetic (siRNA) screen to support target identification.
-
-−	Employed single target k-means cluster analysis to identify subpopulation compound sensitivity.
-
-−	Application of QuPath image analysis software and R to assess senescence in vivo.  
-
-## Transcriptomic and Proteomic Analysis
-
-−	Supported development of sc-RNAseq senescence classification ML tool (Hughes et al., bioRxiv 2023).
-
-   - _Contributed to manuscript through coding troubleshooting (including use of Seurat objects and Monocle trajectory analysis) and conceptual development (ML focus)_
-  
-−	Analysis/visualisation of proteomics data from conditioned media and exosomes. 
 
 
 
