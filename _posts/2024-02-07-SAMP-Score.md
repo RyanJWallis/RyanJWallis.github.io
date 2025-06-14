@@ -19,7 +19,7 @@ SAMP-Score has been used to identify novel compounds that initiate a senescence 
 
 **ML Techniques: Regression (Logistic), regularisation (Lasso, Elastic Net), support vector machines (SVM), decision trees (Random Forrest), dimensionality reduction (MDA), neural networks, ensemble model stacking and hierarchical clustering**
 
-![SAMP_SCORE](https://RyanJWallis.github.io/assets/img/SAMPScore_Full_Update.png){: .mx-auto.d-block }
+<img src="https://RyanJWallis.github.io/assets/img/SAMPScore_Full_Update.png" class="mx-auto d-block" style="background-color: white;">
 
 <strong><a href="https://www.biorxiv.org/content/10.1101/2025.06.09.658585v1">Go to the Pre-print</a>
 
