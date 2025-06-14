@@ -20,6 +20,7 @@ I have a particular interest in applying machine learning (ML) and artificial in
 
 #### Projects:
 **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a>
+
 **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a>
 Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia (_manuscript in preparation_)
 
@@ -42,8 +43,7 @@ Developed a phenocopying methodology comparing to a genome-wide siRNA screen to 
 Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub: Analysis Scripts </a>
 
 #### Topic Reviews
-<a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> Machine learning classifier for senescence (PubMed ID: 39187617)</a><br>
-
+<a href="https://pubmed.ncbi.nlm.nih.gov/37793342/" target="_blank"> CRISPR Screening in Senescence Drug Discovery (PubMed ID: 37793342)</a>
 
 ### Spatial Biology
 
