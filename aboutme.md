@@ -5,12 +5,24 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 ---
 ![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Ryan_2.jpg){: .mx-auto.d-block :}
 
-### My name is Ryan Wallis
+### Ryan Wallis
+## Deputy Manager, Phenotypic Screening Facility
+## Blizard Institute, Queen Mary University of London (QMUL)
 
-I am the Phenotypic Screening Facility Deputy Manager at the Blizard Institute (QMUL). I support researchers using automated high throughput microscopes (INCA 2200 & 6000), automated slide multiplex imaging (Cell DIVE) and staining (BAB200 & Leica BOND RXm), liquid handling robotics (Cybio Felix) and automated cell seeding (Thermo MultiDrop). I also provide bioinformatics and data analysis support using automated high-content (Developer ToolBox, INCarta, MetaXpress) and multiplexed (HALO) image analysis software. 
+My role involves supporting users from both academia and industry across a wide range of advanced screening and spatial biology platforms, including:
 
-I have a particular interest in integrating machine learning within high-content imaging workflows with a focus on multiparametric morphological analysis.
+- Multiplexed spatial immunofluorescence: **Cell DIVE & Phenocycler Fusion**  
+- Automated slide staining and robotic automation: **Leica BOND RX & BAB200**  
+- Automated high-throughput microscopy: **INCA 2200 & 6000**  
+- Liquid handling robotics: **Cybio Felix & Thermo MultiDrop**  
+- Digital pathology and high-content image analysis: **HALO, Developer ToolBox, INCarta**
 
-I am also developing cutting-edge machine-learning pipelines to exploit high-content imaging data for senescent cell classification.
+I also established and continue to manage the facility’s bioinformatics service, providing expertise for both basic science and clinical projects, such as:
 
-This website is a summary of my bioinformatics experience which includes phenotypic screening, transcriptomic and proteomic analysis. I have a particular interest in using AI to probe complex biological datasets in the context of drug discovery. 
+- Spatial biology analyses: **Cell neighbourhoods, cell phenotypes, and spatial relationships**
+- Spatial transcriptomics analysis: **VisumHD 10x Genomics**
+- Development of artificial intelligence (AI) tools for prognostic assessment in cancer  
+- Machine-learning pipelines to exploit high-content imaging data for drug discovery
+- Delivering general introductions to coding, with a particular focus on R  
+
+This website serves as a showcase of some of my completed projects, as well as a summary of my experience. 
