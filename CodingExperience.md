@@ -49,7 +49,7 @@ I have extensive experience analysing large-scale imaging data from both compoun
 ### High Performance Computing
 I have experience analysing both my own and user projects through the university's High Performance Computing (<a href="https://docs.hpc.qmul.ac.uk/" target="_blank"> HPC </a>) cluster via both a web interface and the command line 
 
-### "-omics Analysis
+### Genomic / Proteomic Analysis
 I have experience working with a variety of omics datasets, including transcriptomic, proteomic, and single-cell data.
 
 #### Projects:
