@@ -24,7 +24,7 @@ I have a particular interest in applying machine learning (ML) and artificial in
 - **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a> <br>
 - Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia (_manuscript in preparation_)
 
-#### Topic Reviews
+#### ML Reviews
 <a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> ML assessment of senescence morphology (PubMed ID: 39187617)</a><br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37016180/" target="_blank"> ML techniques in senescence research (PubMed ID: 37016180)</a>
 
@@ -40,7 +40,7 @@ I have extensive experience analysing large-scale imaging data from both compoun
 - Phenocopying methodology comparing a genome-wide siRNA screen to  a novel compound for target identification (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a> <br>
 - Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub </a>
 
-#### Topic Reviews
+#### HCA Reviews
 <a href="https://pubmed.ncbi.nlm.nih.gov/37793342/" target="_blank"> CRISPR Screening in Senescence Drug Discovery (PubMed ID: 37793342)</a>
 
 ### Spatial Biology
@@ -50,8 +50,8 @@ I have extensive experience analysing large-scale imaging data from both compoun
 ### High Performance Computing
 I have experience analysing both my own and user projects through the university's High Performance Computing (<a href="https://docs.hpc.qmul.ac.uk/" target="_blank"> HPC </a>) cluster via both a web interface and the command line 
 
-### "-omics" Analysis
-I have experience analysing a range of other "-omics" datasets.
+### "-omics Analysis
+I have experience working with a variety of omics datasets, including transcriptomic, proteomic, and single-cell data.
 
 #### Projects:
 - Proteomic assessment of mass spectrometry data from exosomes and conditioned media - <a href="https://ryanjwallis.github.io/2021-02-18-Senescent-Exosomes/" target="_blank">Project Link</a><br>
