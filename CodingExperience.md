@@ -19,7 +19,7 @@ I have a particular interest in applying machine learning (ML) and artificial in
 **Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
 
 #### Projects:
-- **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a>
+- **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - </a><br> href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a>
 
 - **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a>
 
@@ -33,14 +33,12 @@ I have a particular interest in applying machine learning (ML) and artificial in
 I have extensive experience analysing large-scale imaging data from both compound and genetic screens, as well as developing tools for drug discovery. 
 
 #### Techniques
-**Analysis**: Z-Scores, cluster-analysis, IC50s, batch normalisation<br>
+**Analysis**: Z-Scores, cluster-analysis, IC50s, batch normalisation <br>
 **Visualisations**: Heatmaps, frequency distributions, dimensionality reduction (UMAP/TSNE)
 
 #### Projects:
-- Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a>
-
-- Phenocopying methodology comparing a genome-wide siRNA screen to  a novel compound for target identification (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a>
-
+- Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a><br>
+- Phenocopying methodology comparing a genome-wide siRNA screen to  a novel compound for target identification (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a><br>
 - Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub </a>
 
 #### Topic Reviews
@@ -51,25 +49,20 @@ I have extensive experience analysing large-scale imaging data from both compoun
 
 
 ### High Performance Computing
-I have experience analysing both my own and user projects through the university's High Performance Computing (<a href="https://docs.hpc.qmul.ac.uk/" target="_blank"> HPC </a> ) cluster via both a web interface and the command line 
+I have experience analysing both my own and user projects through the university's High Performance Computing (<a href="https://docs.hpc.qmul.ac.uk/" target="_blank"> HPC </a>) cluster via both a web interface and the command line 
 
 ### "-omics" Analysis
 I have experience analysing a range of other "-omics" datasets.
 
 #### Projects:
-- Proteomic assessment of mass spectrometry data from exosomes and conditioned media - <a href="https://ryanjwallis.github.io/2021-02-18-Senescent-Exosomes/" target="_blank">Project Link</a>
-
-− sc-RNAseq transcriptomics analysis using example datasets from satijalab - <a href="https://ryanjwallis.github.io/22023-10-01-Seurat-scRNAseq-Transcriptomics/" target="_blank">Project Link</a>
+- Proteomic assessment of mass spectrometry data from exosomes and conditioned media - <a href="https://ryanjwallis.github.io/2021-02-18-Senescent-Exosomes/" target="_blank">Project Link</a><br>
+- sc-RNAseq transcriptomics analysis using example datasets from satijalab - <a href="https://ryanjwallis.github.io/22023-10-01-Seurat-scRNAseq-Transcriptomics/" target="_blank">Project Link</a>
 
 ### Formal Courses
-− DataCamp “Data Scientist with R” track (88-hour online course).
-
-− Biochemical Society “R for Biochemists 101” (5-week online introduction to R).
-
-− LinkedIn Learning “Become a Data Scientist” (17-hour introductory course).
-
-− DataCamp “Data Analyst with Python” track (36-hour online course).
-
+− DataCamp “Data Scientist with R” track (88-hour online course).</a><br>
+− Biochemical Society “R for Biochemists 101” (5-week online introduction to R).</a><br>
+− LinkedIn Learning “Become a Data Scientist” (17-hour introductory course).</a><br>
+− DataCamp “Data Analyst with Python” track (36-hour online course).</a><br>
 − DataCamp "Machine Learning Fundamentals with Python" track (16-hour online course).
 
 
