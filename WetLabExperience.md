@@ -2,40 +2,30 @@
 layout: page
 title: Lab Experience
 ---
-**Whilst I am looking to transition into a bioinformatic role, I also have extensive wet lab experience.**
+**Whilst I am looking to transition into a bioinformatic role, I also have extensive wet lab experience and understanding of cutting-edge platforms.**
 
-### Drug Discovery
+### Spatial Profiling
+- Experience with multiplexed spatial imaging platforms including **Cell DIVE** and **PhenoCycler Fusion**.
+- Have run projects dealing with high volumes of slides (50+ Cell DIVE) or biomarkers (60-plex Phenocycler)
 
+### Drug Discovery and Screening
 −	Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
+- Conducted high-throughput compound screening in 384-well format across multiple cancer cell lines.
+- Operated IN Cell Analyzer 2200/6000 (including confocal mode) for high-content automated imaging.
 
-−	Delivered a lead series which has progressed into an evaluation phase with a commercial partner (NDA protection) balancing commercial and scientific challenges.
+### Automation and Robotic Integration
+- Robotic automation experience using platforms such as PAA and CyBio FeliX for high-throughput liquid handling and assay miniaturisation.
+- Operated BOND Rx automated slide stainer for multiplexed staining protocols.
+- BAB robotics for Cell DIVE workflow automation.
 
-
-### Screening and High Content Automated Microscopy
-−	Use of IN Cell Analyser 2200/6000 for automated image acquisition (incl. confocal)
-
-−		Compound screening in 384-well plate format in multiple cancer cell lines
-
-### Primary Cell Culture
-−	Long-term culture of adult primary cells (>200 days)
-
-−	 Models of senescence (RS , OIS , TIS , paracrine)
-
-−	 Cancer cell lines (MB-468s , MB-231s , BT549s , HCC1937s , HeLas)
-
-−	3D in vitro models (spheroids)
-
-−	Antibiotic-free cell culture
+### Cell Biology & Senescence Models
+- Long-term culture of adult primary cells (>200 days), including antibiotic free culture and use of 3D spheroid models.
+- Experienced with multiple senescence models: replicative (RS), oncogene-induced (OIS), therapy-induced (TIS), and paracrine senescence.
+- Maintained a range of cancer cell lines (e.g. MB-468, MB-231, BT549, HCC1937, HeLa) in antibiotic-free conditions.
   
-### EV Isolation and Characterisation Techniques
-−	Ultracentrifugation
+### Extracellular Vesicle (EV) Isolation & Characterisation
+- EV isolation via ultracentrifugation and size-exclusion chromatography.
+- Characterisation using nanoparticle tracking analysis (NTA) and nano-flow cytometry.
   
-−	 Size- exclusion chromatography
-  
-−	Nanoparticle tracking analysis
-  
-−	 Nano Flow Cytometry
-
-### Standard molecular biology techniques:
-
-−	 Western blot , ELISA , PCR , qPCR 
+### Molecular Biology Techniques
+- Proficient in standard laboratory techniques including Western blotting, ELISA, PCR, and qPCR.
