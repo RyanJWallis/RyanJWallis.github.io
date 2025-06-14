@@ -15,8 +15,7 @@ I also promote best practice and version control through the <a href="https://gi
 I have a particular interest in applying machine learning (ML) and artificial intelligence (AI) to solve complex biological problems and have successfully implemented these approaches across diverse data types.
 
 #### Techniques:
-**Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks
-
+**Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks<br>
 **Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
 
 #### Projects:
@@ -34,15 +33,15 @@ I have a particular interest in applying machine learning (ML) and artificial in
 I have extensive experience analysing large-scale imaging data from both compound and genetic screens, as well as developing tools for drug discovery. 
 
 #### Techniques
-**Analysis**: Z-Scores, cluster-analysis, IC50s, batch normalisation
+**Analysis**: Z-Scores, cluster-analysis, IC50s, batch normalisation<br>
 **Visualisations**: Heatmaps, frequency distributions, dimensionality reduction (UMAP/TSNE)
 
 #### Projects:
 - Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a>
 
-- Developed a phenocopying methodology comparing to a genome-wide siRNA screen to support target identification for a novel compound (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a>
+- Phenocopying methodology comparing a genome-wide siRNA screen to  a novel compound for target identification (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a>
 
-- Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub: Analysis Scripts </a>
+- Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub </a>
 
 #### Topic Reviews
 <a href="https://pubmed.ncbi.nlm.nih.gov/37793342/" target="_blank"> CRISPR Screening in Senescence Drug Discovery (PubMed ID: 37793342)</a>
@@ -51,15 +50,18 @@ I have extensive experience analysing large-scale imaging data from both compoun
 
 
 
+### High Performance Computing
+I have experience analysing both my own and user projects through the university's High Performance Computing (<a href="https://docs.hpc.qmul.ac.uk/" target="_blank"> HPC </a> ) cluster via both a web interface and the command line 
 
+### "-omics" Analysis
+I have experience analysing a range of other "-omics" datasets.
 
+#### Projects:
+- Proteomic assessment of mass spectrometry data from exosomes and conditioned media - <a href="https://ryanjwallis.github.io/2021-02-18-Senescent-Exosomes/" target="_blank">Project Link</a>
 
-
-
-
+− sc-RNAseq transcriptomics analysis using example datasets from satijalab - <a href="https://ryanjwallis.github.io/22023-10-01-Seurat-scRNAseq-Transcriptomics/" target="_blank">Project Link</a>
 
 ### Formal Courses
-
 − DataCamp “Data Scientist with R” track (88-hour online course).
 
 − Biochemical Society “R for Biochemists 101” (5-week online introduction to R).
@@ -72,19 +74,7 @@ I have extensive experience analysing large-scale imaging data from both compoun
 
 
 
-## Multiparameter Phenotypic Profiling (“Phenomics”)
 
 
-
-
-−	Developed phenocopying methodology to genetic (siRNA) screen to support target identification.
-
-## Transcriptomic and Proteomic Analysis
-
-−	Supported development of sc-RNAseq senescence classification ML tool (Hughes et al., bioRxiv 2023).
-
-   - _Contributed to manuscript through coding troubleshooting (including use of Seurat objects and Monocle trajectory analysis) and conceptual development (ML focus)_
-  
-−	Analysis/visualisation of proteomics data from conditioned media and exosomes. 
 
 
