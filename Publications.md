@@ -3,13 +3,10 @@ layout: page
 title: Publications
 ---
 
-## First Author
-
----
 
 ### Research Articles - First Author
 
-- Wallis R. et al., **SAMP-Score: A morphology-based machine learning method for identifying novel pro-senescence compounds in p16 positive cancers** *(In Preparation)*
+- Wallis R. et al., **SAMP-Score: A morphology-based machine learning method for identifying novel pro-senescence compounds in p16 positive cancers** *[Go to the Paper](https://www.biorxiv.org/content/10.1101/2025.06.09.658585v1)
 
 - Wallis, R. et al., (2022) **Senescence-associated morphological profiles (SAMPs): An image-based phenotypic profiling method for evaluating the inter and intra model heterogeneity of senescence** _Aging_  
   [Go to the Paper](https://pubmed.ncbi.nlm.nih.gov/35580013/)
