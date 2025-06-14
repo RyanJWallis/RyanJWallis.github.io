@@ -11,8 +11,8 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 
 My role involves supporting users from both academia and industry across a wide range of advanced screening and spatial biology platforms, including:
 
-- Multiplexed spatial immunofluorescence: **Cell DIVE & Phenocycler Fusion**  
-- Automated slide staining and robotic automation: **Leica BOND RX & BAB200**  
+- Multiplexed spatial immunofluorescence: **Cell DIVE and Phenocycler Fusion**  
+- Automated slide staining and robotic automation: **Leica BOND RX,  BAB200, PAA plate handlers**  
 - Automated high-throughput microscopy: **INCA 2200 & 6000**  
 - Liquid handling robotics: **Cybio Felix & Thermo MultiDrop**  
 - Digital pathology and high-content image analysis: **HALO, Developer ToolBox, INCarta**
