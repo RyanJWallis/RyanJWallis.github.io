@@ -15,8 +15,8 @@ I also promote best practice and version control through the <a href="https://gi
 I have a particular interest in applying machine learning (ML) and artificial intelligence (AI) to solve complex biological problems and have successfully implemented these approaches across diverse data types.
 
 #### Techniques:
--**Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks
--**Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
+- **Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks
+- **Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
 
 #### Projects:
 - **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a> <br>
