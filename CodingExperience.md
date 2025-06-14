@@ -58,7 +58,7 @@ I have experience working with a variety of omics datasets, including transcript
 
 ### Formal Courses
 - DataCamp “Data Scientist with R” track (88-hour online course).<br>
-− Biochemical Society “R for Biochemists 101” (5-week online introduction to R).<br>
+- Biochemical Society “R for Biochemists 101” (5-week online introduction to R).<br>
 - LinkedIn Learning “Become a Data Scientist” (17-hour introductory course).<br>
 - DataCamp “Data Analyst with Python” track (36-hour online course).<br>
 - DataCamp "Machine Learning Fundamentals with Python" track (16-hour online course).
