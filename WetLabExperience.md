@@ -7,7 +7,7 @@ title: Lab Experience
 --- 
 
 ### Spatial Profiling
-- Experience with multiplexed spatial imaging platforms including **Cell DIVE** and **PhenoCycler Fusion**.
+- Experienced with multiplexed spatial imaging platforms including **Cell DIVE** and **PhenoCycler Fusion**.
 - Have run projects dealing with high volumes of slides (50+ Cell DIVE) or biomarkers (60-plex Phenocycler)
   
 --- 
