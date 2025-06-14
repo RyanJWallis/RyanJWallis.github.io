@@ -15,14 +15,13 @@ I also promote best practice and version control through the <a href="https://gi
 I have a particular interest in applying machine learning (ML) and artificial intelligence (AI) to solve complex biological problems and have successfully implemented these approaches across diverse data types.
 
 #### Techniques:
-**Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks<br>
+**Supervised learning**: Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks
+
 **Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
 
 #### Projects:
-- **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a> 
-
-- **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a>
-
+- **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a> <br>
+- **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a> <br>
 - Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia (_manuscript in preparation_)
 
 #### Topic Reviews
