@@ -9,7 +9,7 @@ title: Lab Experience
 - Have run projects dealing with high volumes of slides (50+ Cell DIVE) or biomarkers (60-plex Phenocycler)
 
 ### Drug Discovery and Screening
-−	Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
+− Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
 - Conducted high-throughput compound screening in 384-well format across multiple cancer cell lines.
 - Operated IN Cell Analyzer 2200/6000 (including confocal mode) for high-content automated imaging.
 
