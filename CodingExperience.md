@@ -37,8 +37,8 @@ I have extensive experience analysing large-scale imaging data from both compoun
 **Visualisations**: Heatmaps, frequency distributions, dimensionality reduction (UMAP/TSNE)
 
 #### Projects:
-- Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a><br>
-- Phenocopying methodology comparing a genome-wide siRNA screen to  a novel compound for target identification (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a><br>
+- Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a> <br>
+- Phenocopying methodology comparing a genome-wide siRNA screen to  a novel compound for target identification (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a> <br>
 - Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub </a>
 
 #### Topic Reviews
