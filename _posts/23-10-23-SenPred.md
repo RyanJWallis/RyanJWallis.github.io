@@ -18,7 +18,7 @@ The work demonstrates that 2D _in vitro_ models of senescence poorly recapitulat
 **ML Techniques: Supervised ML, Dimensionality reduction (TNSE / UMAP), PCA, Multiple Discriminant Analysis,  Support Vector
 Machines, K-nearest neighbour, Generalised Linear Model**
 
-![scPred](https://RyanJWallis.github.io/assets/img/SenPred.png){: .mx-auto.d-block :}
+<img src="https://RyanJWallis.github.io/assets/img/SenPred.png" class="mx-auto d-block">
 
 <strong><a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01418-0">Go to the Paper </a>
 
