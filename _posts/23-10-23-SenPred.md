@@ -22,4 +22,5 @@ Machines, K-nearest neighbour, Generalised Linear Model**
 
 <strong><a href="https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01418-0">Go to the Paper </a>
 
-<strong><a href="https:github.com/bethk-h/SenPred_HDF> Github Link </a>
+<strong><a href="https://github.com/bethk-h/SenPred_HDF">Github Link</a></strong>
+
