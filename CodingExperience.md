@@ -11,6 +11,8 @@ I specialise in deriving insights from complex imaging and omics datasets and in
 
 I also promote best practice and version control through the <a href="https://github.com/Phenotypic-Screening-QMUL" target="_blank"> facility github</a>
 
+---
+
 ### Machine Learning (ML) and Artificial Intelligence (AI)
 I have a particular interest in applying machine learning (ML) and artificial intelligence (AI) to solve complex biological problems and have successfully implemented these approaches across diverse data types.
 
@@ -27,6 +29,8 @@ I have a particular interest in applying machine learning (ML) and artificial in
 - <a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> ML assessment of senescence morphology (PubMed ID: 39187617)</a><br>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37016180/" target="_blank"> ML techniques in senescence research (PubMed ID: 37016180)</a>
 
+---
+
 ### High-Content Image Analysis
 I have extensive experience analysing large-scale imaging data from both compound and genetic screens, as well as developing tools for drug discovery. 
 
@@ -42,12 +46,16 @@ I have extensive experience analysing large-scale imaging data from both compoun
 #### HCA Reviews
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37793342/" target="_blank"> CRISPR Screening in Senescence Drug Discovery (PubMed ID: 37793342)</a>
 
+---
+
 ### Spatial Biology
 
-
+---
 
 ### High Performance Computing
 I have experience analysing both my own and user projects through the university's High Performance Computing (<a href="https://docs.hpc.qmul.ac.uk/" target="_blank"> HPC </a>) cluster via both a web interface and the command line 
+
+---
 
 ### Genomic / Proteomic Analysis
 I have experience working with a variety of omics datasets, including transcriptomic, proteomic, and single-cell data.
@@ -55,6 +63,8 @@ I have experience working with a variety of omics datasets, including transcript
 #### Projects:
 - Proteomic assessment of mass spectrometry data from exosomes and conditioned media - <a href="https://ryanjwallis.github.io/2021-02-18-Senescent-Exosomes/" target="_blank">Project Link</a><br>
 - sc-RNAseq transcriptomics analysis using example datasets from satijalab - <a href="https://ryanjwallis.github.io/22023-10-01-Seurat-scRNAseq-Transcriptomics/" target="_blank">Project Link</a>
+
+---
 
 ### Formal Courses
 - DataCamp “Data Scientist with R” track (88-hour online course).<br>
