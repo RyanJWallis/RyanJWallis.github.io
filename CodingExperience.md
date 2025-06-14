@@ -19,7 +19,7 @@ I have a particular interest in applying machine learning (ML) and artificial in
 **Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
 
 #### Projects:
-- **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a>
+- **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a> 
 
 - **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a>
 
