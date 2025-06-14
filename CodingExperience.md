@@ -19,10 +19,11 @@ I have a particular interest in applying machine learning (ML) and artificial in
 **Unsupervised learning**: Hierarchical clustering, k-means clustering, Principal Component Analysis (PCA), Exploratory Factor Analysis (EFA)
 
 #### Projects:
-**SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a>
+- **SAMP-Score**: Ensemble machine learning model for senescence detection to support drug discovery in cancer - <a href="https://ryanjwallis.github.io/2024-02-07-SAMP-Score/" target="_blank">Project Link</a>
 
-**SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a>
-Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia (_manuscript in preparation_)
+- **SenPred**: Senescence classification model for single-cell RNA sequencing transcriptomic data developed from 3D _in vitro_ cell culture models - <a href="https://ryanjwallis.github.io/2023-10-23-SenPred/" target="_blank">Project Link</a>
+
+- Prognostic multiplexed immunofluorescence model utilising the spatial assessment in oral epithelial dysplasia (_manuscript in preparation_)
 
 #### Topic Reviews
 <a href="https://pubmed.ncbi.nlm.nih.gov/39187617/" target="_blank"> Machine learning classifier for senescence (PubMed ID: 39187617)</a><br>
@@ -36,11 +37,11 @@ I have extensive experience analysing large-scale imaging data from both compoun
 **Visualisations**: Heatmaps, frequency distributions, dimensionality reduction (UMAP/TSNE)
 
 #### Projects:
-Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a>
+- Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a>
 
-Developed a phenocopying methodology comparing to a genome-wide siRNA screen to support target identification for a novel compound (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a>
+- Developed a phenocopying methodology comparing to a genome-wide siRNA screen to support target identification for a novel compound (_in evaluation phase with commercial partner_) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a>
 
-Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub: Analysis Scripts </a>
+- Developed a range of reusable pipelines and workflows, as well as HTML guides for users to standardise the analysis of imaging data  <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank"> GitHub: Analysis Scripts </a>
 
 #### Topic Reviews
 <a href="https://pubmed.ncbi.nlm.nih.gov/37793342/" target="_blank"> CRISPR Screening in Senescence Drug Discovery (PubMed ID: 37793342)</a>
