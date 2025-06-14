@@ -6,8 +6,8 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 ![Ryan Wallis, PhD](https://RyanJWallis.github.io/assets/img/Ryan_2.jpg){: .mx-auto.d-block :}
 
 ### Ryan Wallis
-## Deputy Manager, Phenotypic Screening Facility
-## Blizard Institute, Queen Mary University of London (QMUL)
+#### Deputy Manager, Phenotypic Screening Facility
+#### Blizard Institute, Queen Mary University of London (QMUL)
 
 My role involves supporting users from both academia and industry across a wide range of advanced screening and spatial biology platforms, including:
 
