@@ -7,6 +7,13 @@ tags: [R,Phenotypic Profiling, Supervised Machine Learning]
 author: Ryan J Wallis, PhD
 ---
 
+<style>
+  img[src$="SAMPScore_Full_Update.png"] {
+    background-color: white;
+    border-radius: 6px;
+  }
+</style>
+
 I developed a machine learning model for the classification of senescent cells  based on their cell morphology - **SAMP-Score**. 
 
 SAMP-Score was built and validated through analysis of high-throughput screening data and multiparameter phenotypic analysis of the following large scale data sets:
