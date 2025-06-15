@@ -35,7 +35,7 @@ title: Publications
 ---
 
 ### Exploring the paradox of senescence markers in cancer cells
-- O’Sullivan, E.A., Wallis, R.\*, Mossa, F., Bishop, C.L. (2024) **The paradox of senescent-marker positive (SenMark+) cancer cells: challenges and opportunities** _NPJ Aging_  
+- O’Sullivan, E.A.\*, Wallis, R.\*, Mossa, F.\*, Bishop, C.L. (2024) **The paradox of senescent-marker positive (SenMark+) cancer cells: challenges and opportunities** _NPJ Aging_  
   [PMID: 39277623](https://pubmed.ncbi.nlm.nih.gov/39277623/)
 
 ---
