@@ -96,6 +96,8 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
   </ul>
 </div>
 
+---
+
 <p class="bottom-note">
   This website highlights selected projects and a summary of my research and technical experience.
 </p>
