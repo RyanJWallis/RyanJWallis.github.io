@@ -83,7 +83,7 @@ title: Publications
 </div>
 
 <div class="pub-entry">
-  <div class="pub-authors">Hughes, B. et al., (2023)</div>
+  <div class="pub-authors">Hughes, B.K. et al., (2023)</div>
   <div class="pub-title">SenPred: A single-cell RNA sequencing-based machine learning pipeline to classify senescent cells for the detection of an in vivo senescent cell burden</div>
   <div class="pub-journal"><em>Genome Medicine</em></div>
   <div class="pub-links">
