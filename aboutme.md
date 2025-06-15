@@ -17,33 +17,32 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
     margin-bottom: 1rem;
   }
 
-  .section-box {
-    background-color: #254E58;
-    border: 2px solid #6E6658;
-    border-radius: 12px;
-    padding: 1.5rem;
-    margin: 2rem 0;
-    color: #f7f9fa;
+  .bio-section {
+    margin-top: 2rem;
     font-size: 1.05rem;
     line-height: 1.6;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    color: #f7f9fa;
   }
 
-  .section-box h4 {
+  .info-box {
+    background: #112D32;
+    border: 1px solid #6E6658;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 20px 0;
+    color: #f7f9fa;
+    font-size: 1rem;
+  }
+
+  .info-box h4 {
     margin-bottom: 1rem;
     color: #f7f9fa;
     font-size: 1.2rem;
   }
 
-  .section-box i {
+  .info-box i {
     color: #02b8de;
     margin-right: 0.5rem;
-  }
-
-  hr {
-    margin: 2rem 0;
-    border: none;
-    border-top: 1px solid #6E6658;
   }
 
   .bottom-note {
@@ -51,6 +50,12 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
     font-style: italic;
     color: #f7f9fa;
     margin-top: 3rem;
+  }
+
+  hr {
+    margin: 2.5rem 0;
+    border: none;
+    border-top: 1px solid #6E6658;
   }
 </style>
 
@@ -63,14 +68,13 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 
 <hr>
 
-<div class="section-box">
-  <h4><i class="fas fa-user-cog"></i> Role Summary</h4>
+<div class="bio-section">
   <p>
     I support academic and industry collaborators across a range of advanced screening and spatial biology platforms. My role bridges the fields of multiplexed imaging, high-content screening, and computational analysis.
   </p>
 </div>
 
-<div class="section-box">
+<div class="info-box">
   <h4><i class="fas fa-microscope"></i> Technologies & Platforms</h4>
   <ul>
     <li><strong>Cell DIVE, Phenocycler Fusion</strong> – multiplexed spatial immunofluorescence</li>
@@ -81,7 +85,7 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
   </ul>
 </div>
 
-<div class="section-box">
+<div class="info-box">
   <h4><i class="fas fa-laptop-code"></i> Bioinformatics & Data Science</h4>
   <ul>
     <li>Spatial biology: cell phenotyping, neighbourhoods, and proximity metrics</li>
@@ -95,3 +99,6 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 <p class="bottom-note">
   This website highlights selected projects and a summary of my research and technical experience.
 </p>
+
+<!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
