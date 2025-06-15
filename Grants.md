@@ -4,6 +4,8 @@ title: Grants and Awards
 ---
 ## Grants
 
+- QMUK Research capital investment fund - Functional Genomics Hub - **£2.1M** (May 2025)       
+
 −	Multi-Disciplinary Research Themes Pump Priming Award - **£4,954** (Nov 2022)       
 
 −	FMD Staff Awards Nomination - Outstanding Early Career Researcher (Sept 2022)
@@ -22,6 +24,7 @@ title: Grants and Awards
 
 _Not Funded_
 
+−	BBSRC Mid-range equipment call (Co-lead, awaiting outcome) - £806K	(Jan 2025)
 −	Wellcome Trust ECR Fellowship – £1.2M (Shortlisted for interview) (Oct 2023)
 
 
