@@ -41,11 +41,14 @@ layout: page
   transition: color 0.25s ease;
 }
 
-.github-button:hover,
+.github-button:hover {
+  color: #6E6658; /* brown text on hover */
+}
+
 .github-button:focus {
-  color: #6E6658; /* brown text on dark background */
-  outline: none;
-  /* background-color remains unchanged */
+  outline: 2px solid #6E6658; /* visible focus ring for keyboard users */
+  outline-offset: 2px;
+  color: white; /* keep text white on focus */
 }
 
 .posts-grid {
