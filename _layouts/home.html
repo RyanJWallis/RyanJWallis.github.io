@@ -2,46 +2,57 @@
 layout: page
 ---
 
+<!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <style>
 .posts-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 1.5rem;
   margin-top: 2rem;
-  justify-content: center;
 }
 
 .post-card {
-  background: white;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  overflow: hidden;
+  background: #112D32;
+  border: 1px solid #6E6658;
+  border-radius: 8px;
+  padding: 1.5rem 1.75rem;
+  color: #f7f9fa;
+  font-size: 1rem;
+  flex: 1 1 280px;
+  max-width: 320px;
   display: flex;
   flex-direction: column;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
   cursor: pointer;
-  max-width: 300px;
-  margin: 0 auto;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  user-select: none;
 }
 
 .post-card:hover,
 .post-card:focus-within {
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.3);
   transform: translateY(-6px);
-  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
   outline: none;
 }
 
 .post-card-image-link {
   display: block;
   overflow: hidden;
-  flex-shrink: 0;
+  width: 100%;
+  margin-bottom: 1rem;
 }
 
 .post-card-image {
   width: 100%;
   height: 150px;
   object-fit: contain;
-  background: #f8f8f8;
+  background: #0c2125;
+  border-radius: 6px;
   transition: transform 0.3s ease;
 }
 
@@ -50,76 +61,21 @@ layout: page
   transform: scale(1.05);
 }
 
-.post-card-content {
-  padding: 1rem 1.25rem;
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
-}
-
 .post-card-title-link {
-  color: #222;
+  color: #02b8de;
   text-decoration: none;
-}
-
-.post-card-title {
-  font-size: 1.2rem;
-  margin: 0 0 0.4rem 0;
-  font-weight: 600;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 0.3rem;
 }
 
 .post-card-subtitle {
-  font-size: 0.9rem;
-  color: #666;
-  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  color: #cbd5db;
+  margin: 0;
+  font-style: italic;
 }
 
-.post-card-meta {
-  font-size: 0.75rem;
-  color: #aaa;
-  margin-bottom: 0.8rem;
-}
-
-.post-read-more {
-  font-weight: 600;
-  color: #007bff;
-  text-decoration: none;
-  font-size: 0.85rem;
-  align-self: flex-start;
-  margin-top: auto;
-}
-
-.post-read-more:hover,
-.post-read-more:focus {
-  text-decoration: underline;
-}
-
-/* Updated tags styling */
-.post-card-tags {
-  margin-top: 1rem;
-  padding-top: 0.5rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.post-tag {
-  background-color: #0366d6;
-  color: white;
-  border-radius: 20px;
-  padding: 0.3rem 0.9rem;
-  font-size: 0.8rem;
-  text-decoration: none;
-  transition: background-color 0.3s ease;
-  font-weight: 600;
-  box-shadow: 0 2px 5px rgba(3,102,214,0.3);
-}
-
-.post-tag:hover,
-.post-tag:focus {
-  background-color: #024a9f;
-  box-shadow: 0 3px 8px rgba(2,74,159,0.5);
-}
 </style>
 
 {% assign posts = paginator.posts | default: site.posts %}
@@ -128,7 +84,6 @@ layout: page
   {% for post in posts %}
   <li class="post-card" tabindex="0">
     <article>
-
       {%- capture thumbnail -%}
         {% if post.thumbnail-img %}
           {{ post.thumbnail-img }}
@@ -149,36 +104,13 @@ layout: page
       </a>
       {% endif %}
 
-      <div class="post-card-content">
+      <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
+        {{ post.title | strip_html }}
+      </a>
 
-        <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
-          <h2 class="post-card-title">{{ post.title | strip_html }}</h2>
-        </a>
-
-        {% if post.subtitle %}
-          <h3 class="post-card-subtitle">{{ post.subtitle | strip_html }}</h3>
-        {% endif %}
-
-        {% if post.author %}
-          <div class="post-card-meta">By <strong>{{ post.author | strip_html }}</strong></div>
-        {% endif %}
-        <div class="post-card-meta">
-          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-          Posted on {{ post.date | date: date_format }}
-        </div>
-
-        {% if site.feed_show_tags != false and post.tags.size > 0 %}
-        <div class="post-card-tags" aria-label="Tags">
-          {% for tag in post.tags %}
-          <a href="{{ '/tags' | absolute_url }}#{{- tag -}}" class="post-tag">{{- tag -}}</a>
-          {% endfor %}
-        </div>
-        {% endif %}
-
-        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read More]</a>
-
-      </div>
-
+      {% if post.subtitle %}
+        <p class="post-card-subtitle">{{ post.subtitle | strip_html }}</p>
+      {% endif %}
     </article>
   </li>
   {% endfor %}
