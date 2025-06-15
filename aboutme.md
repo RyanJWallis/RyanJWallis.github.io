@@ -75,8 +75,8 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
   <div class="info-box">
     <h4><i class="fas fa-microscope"></i> Technologies & Platforms</h4>
     <ul>
-      <li><strong>Multiplexed imaging:</strong> Cell DIVE, Phenocycler Fusion</li>
-      <li><strong>Automation and robotics:</strong> Leica BOND RX, BAB200, PAA robotics</li>
+      <li><strong>Multiplexed spatial imaging:</strong> Cell DIVE, Phenocycler Fusion</li>
+      <li><strong>Automation and robotics:</strong> Leica BOND RX, BAB200, PAA plate handlers</li>
       <li><strong>High-throughput microscopy:</strong> INCA 2200 & 6000</li>
       <li><strong>Liquid handling:</strong> Cybio Felix, Thermo MultiDrop</li>
       <li><strong>Digital pathology and image analysis:</strong> HALO, Developer Toolbox, INCarta, QuPath</li>
