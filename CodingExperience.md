@@ -49,6 +49,13 @@ I have extensive experience analysing large-scale imaging data from both compoun
 ---
 
 ### Spatial Biology
+Develop bespoke and sophisticated analysis pipelines for users of our Cell DIVE and Phenocycler Fusion multiplex immunofluorescence platforms via the HALO digital pathology software. I have also datamined published spatial transcriptomics datasets for users as a service. 
+
+#### Techniques
+- Cluster-based cell phenotyping utilising dimensionality reduction and subject knowledge to assign cell types
+- K-nearest neighbour analysis to determine cell type tissue distribution
+- Cell Neighbourhood analysis to determine cell type enrichment within tissue
+- Spatial distance and proximity assessments between cells and tissue architecture 
 
 ---
 
