@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proteomics: Exosomes in Senescence
+title: Proteomics - Exosomes in Senescence
 subtitle: Mass spectrometry analysis and visualisation
 thumbnail-img: /assets/img/Exosomes_2.png
 tags: [R, Proteomics, Mass Spectrometry, Machine Learning, Unsupervised Machine Learning]
