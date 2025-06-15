@@ -69,7 +69,7 @@ title: Lab Experience
 
 **Whilst I am looking to transition into a bioinformatic role, I also have extensive wet lab experience and understanding of cutting-edge platforms.**
 
-<details open>
+<details >
   <summary><i class="fas fa-microscope summary-icon"></i>Spatial Profiling</summary>
   <ul>
     <li>Experienced with multiplexed spatial imaging platforms including <strong>Cell DIVE</strong> and <strong>PhenoCycler Fusion</strong>.</li>
