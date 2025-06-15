@@ -1,131 +1,116 @@
 ---
 layout: page
-title: Research Projects
 ---
 
+{{ content }}
+
 <style>
-  .project-section {
-    margin-top: 2.5rem;
-  }
+.section-heading {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  text-align: left;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.4rem;
+}
 
-  .project-heading {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-    border-left: 4px solid #02b8de;
-    padding-left: 0.75rem;
-    color: #112D32;
-  }
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.8rem;
+  margin-top: 1.5rem;
+}
 
-  .project-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    justify-content: center;
-  }
+.post-card {
+  background: #112D32;
+  border: 1px solid #6E6658;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  cursor: pointer;
+  color: #f7f9fa;
+}
 
-  .project-card {
-    background: #112D32;
-    border: 1px solid #6E6658;
-    border-radius: 8px;
-    padding: 16px 20px;
-    color: #f7f9fa;
-    font-size: 1rem;
-    flex: 1 1 300px;
-    max-width: 480px;
-    display: flex;
-    flex-direction: column;
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
-    cursor: pointer;
-  }
+.post-card:hover,
+.post-card:focus-within {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+}
 
-  .project-card:hover {
-    transform: translateY(-6px);
-    box-shadow: 0 12px 20px rgba(0,0,0,0.15);
-  }
+.post-card-image-link {
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
 
-  .project-card img {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    border-radius: 6px;
-    margin-bottom: 1rem;
-  }
+.post-card-image {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
 
-  .project-title {
-    font-size: 1.2rem;
-    margin-bottom: 0;
-    color: #02b8de;
-    text-decoration: none;
-  }
+.post-card:hover .post-card-image,
+.post-card:focus-within .post-card-image {
+  transform: scale(1.05);
+}
 
-  .project-title:hover {
-    text-decoration: underline;
-  }
+.post-card-title-link {
+  color: #f7f9fa;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 1rem 1.25rem 1.25rem 1.25rem;
+  display: block;
+}
+
+.post-card-title-link:hover,
+.post-card-title-link:focus {
+  text-decoration: underline;
+}
 </style>
 
-<!-- PROTEOMICS -->
-<div class="project-section">
-  <h2 class="project-heading">Proteomics</h2>
-  <div class="project-container">
-    {% assign post = site.posts | where:"title","Proteomics – Exosomes in Senescence" | first %}
+<!-- MACHINE LEARNING SECTION -->
+<h2 class="section-heading">Machine Learning</h2>
+<div class="posts-grid">
+  {% assign ml_titles = "Supervised ML – SAMP-Score,Supervised ML – SenPred,Unsupervised ML – SAMPs" | split: "," %}
+  {% for title in ml_titles %}
+    {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
-    <a class="project-card" href="{{ post.url | absolute_url }}">
-      {% if post.thumbnail-img %}
-        <img src="{{ post.thumbnail-img | absolute_url }}" alt="Post image">
-      {% endif %}
-      <h3 class="project-title">{{ post.title }}</h3>
-    </a>
-    {% endif %}
-  </div>
-</div>
-
-<!-- SC-RNASEQ -->
-<div class="project-section">
-  <h2 class="project-heading">sc-RNAseq</h2>
-  <div class="project-container">
-    {% assign post = site.posts | where:"title","sc-RNAseq – Seurat" | first %}
-    {% if post %}
-    <a class="project-card" href="{{ post.url | absolute_url }}">
-      {% if post.thumbnail-img %}
-        <img src="{{ post.thumbnail-img | absolute_url }}" alt="Post image">
-      {% endif %}
-      <h3 class="project-title">{{ post.title }}</h3>
-    </a>
-    {% endif %}
-  </div>
-</div>
-
-<!-- UNSUPERVISED ML -->
-<div class="project-section">
-  <h2 class="project-heading">Unsupervised ML</h2>
-  <div class="project-container">
-    {% assign post = site.posts | where:"title","Unsupervised ML – SAMPs" | first %}
-    {% if post %}
-    <a class="project-card" href="{{ post.url | absolute_url }}">
-      {% if post.thumbnail-img %}
-        <img src="{{ post.thumbnail-img | absolute_url }}" alt="Post image">
-      {% endif %}
-      <h3 class="project-title">{{ post.title }}</h3>
-    </a>
-    {% endif %}
-  </div>
-</div>
-
-<!-- SUPERVISED ML -->
-<div class="project-section">
-  <h2 class="project-heading">Supervised ML</h2>
-  <div class="project-container">
-    {% assign ml_titles = "Supervised ML – SenPred,Supervised ML – SAMP-Score" | split: "," %}
-    {% for title in ml_titles %}
-      {% assign post = site.posts | where:"title", title | first %}
-      {% if post %}
-      <a class="project-card" href="{{ post.url | absolute_url }}">
-        {% if post.thumbnail-img %}
-          <img src="{{ post.thumbnail-img | absolute_url }}" alt="Post image">
-        {% endif %}
-        <h3 class="project-title">{{ post.title }}</h3>
+    <div class="post-card">
+      {% if post.thumbnail-img or post.cover-img %}
+      <a href="{{ post.url | absolute_url }}" class="post-card-image-link" aria-label="Thumbnail">
+        <img class="post-card-image" src="{{ post.thumbnail-img | default: post.cover-img | absolute_url }}" alt="Post image">
       </a>
       {% endif %}
-    {% endfor %}
-  </div>
+      <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
+        {{ post.title }}
+      </a>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- MOLECULAR PROFILING SECTION -->
+<h2 class="section-heading">Molecular Profiling</h2>
+<div class="posts-grid">
+  {% assign profiling_titles = "sc-RNAseq – Seurat,Proteomic assessment of senescence exosomes" | split: "," %}
+  {% for title in profiling_titles %}
+    {% assign post = site.posts | where: "title", title | first %}
+    {% if post %}
+    <div class="post-card">
+      {% if post.thumbnail-img or post.cover-img %}
+      <a href="{{ post.url | absolute_url }}" class="post-card-image-link" aria-label="Thumbnail">
+        <img class="post-card-image" src="{{ post.thumbnail-img | default: post.cover-img | absolute_url }}" alt="Post image">
+      </a>
+      {% endif %}
+      <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
+        {{ post.title }}
+      </a>
+    </div>
+    {% endif %}
+  {% endfor %}
 </div>
