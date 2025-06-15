@@ -11,45 +11,41 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
   <h5>Blizard Institute, Queen Mary University of London (QMUL)</h5>
 </div>
 
----
+<hr style="margin: 2rem 0;">
 
-<div class="bio-section" style="margin-top: 2rem;">
-  <p style="font-size: 1.1rem;">
-    I support users from academia and industry across a wide range of advanced screening and spatial biology platforms:
+<div class="bio-section" style="margin-top: 2rem; font-size: 1.05rem; line-height: 1.6;">
+  <p>
+    I support academic and industry collaborators across a range of advanced screening and spatial biology platforms. My role bridges experimental automation, high-content imaging, and computational analysis.
   </p>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 1.5rem;">
-    <div style="flex: 1; min-width: 250px;">
-      <h4>🧪 Technologies</h4>
+  <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
+    
+    <div style="flex: 1; min-width: 280px;">
+      <h4><i class="fas fa-microscope"></i> Technologies & Platforms</h4>
       <ul>
-        <li><strong>Cell DIVE, Phenocycler Fusion</strong> – Multiplexed spatial immunofluorescence</li>
-        <li><strong>Leica BOND RX, BAB200</strong> – Automated slide staining & robotics</li>
-        <li><strong>INCA 2200 & 6000</strong> – High-throughput microscopy</li>
-        <li><strong>Cybio Felix, Thermo MultiDrop</strong> – Liquid handling</li>
-        <li><strong>HALO, Developer Toolbox, INCarta</strong> – Digital pathology & analysis</li>
+        <li><strong>Cell DIVE, Phenocycler Fusion</strong> – multiplexed spatial immunofluorescence</li>
+        <li><strong>Leica BOND RX, BAB200</strong> – automated slide staining & robotics</li>
+        <li><strong>INCA 2200 & 6000</strong> – high-throughput microscopy systems</li>
+        <li><strong>Cybio Felix, Thermo MultiDrop</strong> – liquid handling automation</li>
+        <li><strong>HALO, Developer Toolbox, INCarta</strong> – digital pathology & image analysis</li>
       </ul>
     </div>
 
-    <div style="flex: 1; min-width: 250px;">
-      <h4>🧠 Bioinformatics</h4>
+    <div style="flex: 1; min-width: 280px;">
+      <h4><i class="fas fa-code"></i> Bioinformatics & Data Science</h4>
       <ul>
-        <li>Spatial biology: <strong>cell neighbourhoods, phenotyping, spatial stats</strong></li>
-        <li>Spatial transcriptomics: <strong>10x Genomics VisiumHD</strong></li>
-        <li>AI tools for prognostic modelling in cancer</li>
-        <li>Machine learning for high-content imaging & drug discovery</li>
-        <li>Introductory coding workshops (focus on <strong>R</strong>)</li>
+        <li>Spatial biology: cell phenotyping, neighbourhoods, and spatial metrics</li>
+        <li>Spatial transcriptomics analysis: <strong>10x Genomics VisiumHD</strong></li>
+        <li>Machine learning pipelines for high-content imaging and drug discovery</li>
+        <li>Development of AI tools for prognostic modelling in cancer</li>
+        <li>Introductory coding workshops with emphasis on <strong>R</strong></li>
       </ul>
     </div>
   </div>
 </div>
 
----
+<hr style="margin: 3rem 0;">
 
-<div style="margin-top: 2rem;">
-  <p>
-    This website serves as a showcase of selected projects and a summary of my technical and research experience.
-  </p>
-  <p>
-    <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank" style="color: #007ACC; font-weight: bold;">📰 Read Press Release</a>
-  </p>
-</div>
+<p style="text-align: center; font-style: italic;">
+  This website highlights selected projects and a summary of my research and technical experience.
+</p>
