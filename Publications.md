@@ -14,8 +14,8 @@ title: Publications
 - Duran, I., Bishop, C.L., Gil, J., Wallis, R. (2024) **The promise of machine learning approaches to capture cellular senescence heterogeneity** _Nature Aging_  
   [PMID: 39187617](https://pubmed.ncbi.nlm.nih.gov/39187617/)
 
-- Hughes, B. et al., (2023) **SenPred: A single-cell RNA sequencing-based machine learning pipeline to classify senescent cells for the detection of an in vivo senescent cell burden** _bioRxiv_  
-  [Preprint](https://www.biorxiv.org/content/10.1101/2023.10.23.563515v1/)
+- Hughes, B. et al., (2023) **SenPred: A single-cell RNA sequencing-based machine learning pipeline to classify senescent cells for the detection of an in vivo senescent cell burden** _Genome Medicine_  
+  [PMID: 39810225](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01418-0))
 
 - Hughes, B.K.\*, Wallis, R.\*, and Bishop, C.L. (2023) **Yearning for Machine Learning: Opportunities for the classification and characterisation of senescence** _Cell and Tissue Research_  
   [PMID: 37016180](https://pubmed.ncbi.nlm.nih.gov/37016180/)
