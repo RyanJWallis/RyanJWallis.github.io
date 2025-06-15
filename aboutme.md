@@ -75,22 +75,22 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
   <div class="info-box">
     <h4><i class="fas fa-microscope"></i> Technologies & Platforms</h4>
     <ul>
-      <li><strong>Cell DIVE, Phenocycler Fusion</strong> – multiplexed spatial immunofluorescence</li>
-      <li><strong>Leica BOND RX, BAB200, PAA</strong> – automated slide staining & robotics</li>
-      <li><strong>INCA 2200 & 6000</strong> – high-throughput microscopy systems</li>
-      <li><strong>Cybio Felix, Thermo MultiDrop</strong> – liquid handling automation</li>
-      <li><strong>HALO, Developer Toolbox, INCarta</strong> – digital pathology & image analysis</li>
+      <li><strong>Multiplexed imaging:</strong> Cell DIVE, Phenocycler Fusion</li>
+      <li><strong>Automation and robotics:</strong> Leica BOND RX, BAB200, PAA robotics</li>
+      <li><strong>High-throughput microscopy:</strong> INCA 2200 & 6000</li>
+      <li><strong>Liquid handling:</strong> Cybio Felix, Thermo MultiDrop</li>
+      <li><strong>Digital pathology and image analysis:</strong> HALO, Developer Toolbox, INCarta, QuPath</li>
     </ul>
   </div>
 
   <div class="info-box">
     <h4><i class="fas fa-laptop-code"></i> Bioinformatics & Data Science</h4>
     <ul>
-      <li>Spatial biology: cell phenotyping, neighbourhoods, and proximity metrics</li>
-      <li>Machine learning pipelines for high-content imaging and drug discovery</li>
-      <li>Development of AI tools for prognostic modelling in cancer</li>
-      <li>Spatial transcriptomics analysis: <strong>10x Genomics VisiumHD</strong></li>
-      <li>Introductory coding workshops with emphasis on <strong>R</strong></li>
+      <li><strong>Spatial biology:</strong> cell phenotyping, neighbourhood mapping, proximity metrics</li>
+      <li><strong>Machine learning:</strong> applied to high-content screening & drug discovery</li>
+      <li><strong>AI applications:</strong> cancer prognosis, morphological profiling</li>
+      <li><strong>Spatial transcriptomics:</strong> incl. 10x Genomics VisiumHD</li>
+      <li><strong>Training & outreach:</strong> R-based workshops for non-coders</li>
     </ul>
   </div>
 </div>
