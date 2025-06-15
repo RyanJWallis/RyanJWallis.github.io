@@ -73,10 +73,10 @@ layout: page
 }
 </style>
 
-<!-- MACHINE LEARNING -->
+<!-- MACHINE LEARNING SECTION -->
 <h2 class="section-heading">Machine Learning</h2>
 <div class="posts-grid">
-  {% assign ml_titles = "SAMP-Score,SENPRed,SAMPS" | split: "," %}
+  {% assign ml_titles = "SAMP-Score,SENPRed,SAMPS: Image-Based Profiling with Minimal Supervision" | split: "," %}
   {% for title in ml_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
@@ -94,10 +94,10 @@ layout: page
   {% endfor %}
 </div>
 
-<!-- MOLECULAR PROFILING -->
+<!-- MOLECULAR PROFILING SECTION -->
 <h2 class="section-heading">Molecular Profiling</h2>
 <div class="posts-grid">
-  {% assign profiling_titles = "Proteomics,sc-RNAseq Transcriptomics (Seurat)" | split: "," %}
+  {% assign profiling_titles = "Proteomics: Defining Tumour States Across Cancers,sc-RNAseq Transcriptomics (Seurat)" | split: "," %}
   {% for title in profiling_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
