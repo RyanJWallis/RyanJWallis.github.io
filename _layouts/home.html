@@ -2,57 +2,54 @@
 layout: page
 ---
 
-<!-- Font Awesome for icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+{{ content }}
 
 <style>
+.section-heading {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  text-align: left;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.4rem;
+}
+
 .posts-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 1.5rem;
-  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.8rem;
+  margin-top: 1.5rem;
 }
 
 .post-card {
   background: #112D32;
   border: 1px solid #6E6658;
-  border-radius: 8px;
-  padding: 1.5rem 1.75rem;
-  color: #f7f9fa;
-  font-size: 1rem;
-  flex: 1 1 280px;
-  max-width: 320px;
+  border-radius: 10px;
+  overflow: hidden;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  text-align: center;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
   cursor: pointer;
-  transition: box-shadow 0.3s ease, transform 0.3s ease;
-  user-select: none;
+  color: #f7f9fa;
 }
 
 .post-card:hover,
 .post-card:focus-within {
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.3);
   transform: translateY(-6px);
-  outline: none;
+  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
 }
 
 .post-card-image-link {
   display: block;
   overflow: hidden;
-  width: 100%;
-  margin-bottom: 1rem;
+  flex-shrink: 0;
 }
 
 .post-card-image {
   width: 100%;
-  height: 150px;
-  object-fit: contain;
-  background: #0c2125;
-  border-radius: 6px;
+  height: 160px;
+  object-fit: cover;
   transition: transform 0.3s ease;
 }
 
@@ -62,77 +59,58 @@ layout: page
 }
 
 .post-card-title-link {
-  color: #02b8de;
+  color: #f7f9fa;
   text-decoration: none;
-  font-weight: 700;
   font-size: 1.25rem;
-  margin-bottom: 0.3rem;
+  font-weight: 600;
+  padding: 1rem 1.25rem 1.25rem 1.25rem;
+  display: block;
 }
 
-.post-card-subtitle {
-  font-size: 1rem;
-  color: #cbd5db;
-  margin: 0;
-  font-style: italic;
+.post-card-title-link:hover,
+.post-card-title-link:focus {
+  text-decoration: underline;
 }
-
 </style>
 
-{% assign posts = paginator.posts | default: site.posts %}
-
-<ul class="posts-grid" role="list">
-  {% for post in posts %}
-  <li class="post-card" tabindex="0">
-    <article>
-      {%- capture thumbnail -%}
-        {% if post.thumbnail-img %}
-          {{ post.thumbnail-img }}
-        {% elsif post.cover-img %}
-          {% if post.cover-img.first %}
-            {{ post.cover-img[0].first.first }}
-          {% else %}
-            {{ post.cover-img }}
-          {% endif %}
-        {% else %}
-        {% endif %}
-      {% endcapture %}
-      {% assign thumbnail=thumbnail | strip %}
-
-      {% if thumbnail != "" %}
-      <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail" class="post-card-image-link">
-        <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail" class="post-card-image">
+<!-- MACHINE LEARNING -->
+<h2 class="section-heading">Machine Learning</h2>
+<div class="posts-grid">
+  {% assign ml_titles = "SAMP-Score,SENPRed,SAMPS" | split: "," %}
+  {% for title in ml_titles %}
+    {% assign post = site.posts | where: "title", title | first %}
+    {% if post %}
+    <div class="post-card">
+      {% if post.thumbnail-img or post.cover-img %}
+      <a href="{{ post.url | absolute_url }}" class="post-card-image-link" aria-label="Thumbnail">
+        <img class="post-card-image" src="{{ post.thumbnail-img | default: post.cover-img | absolute_url }}" alt="Post image">
       </a>
       {% endif %}
-
       <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
-        {{ post.title | strip_html }}
+        {{ post.title }}
       </a>
-
-      {% if post.subtitle %}
-        <p class="post-card-subtitle">{{ post.subtitle | strip_html }}</p>
-      {% endif %}
-    </article>
-  </li>
+    </div>
+    {% endif %}
   {% endfor %}
-</ul>
+</div>
 
-{% if paginator.total_pages > 1 %}
-<ul class="pagination main-pager">
-  {% if paginator.previous_page %}
-  <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
-      <i class="fas fa-arrow-left" alt="Newer Posts"></i>
-      <span class="d-none d-sm-inline-block">Newer Posts</span>
-    </a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
-      <span class="d-none d-sm-inline-block">Older Posts</span>
-      <i class="fas fa-arrow-right" alt="Older Posts"></i>
-    </a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<!-- MOLECULAR PROFILING -->
+<h2 class="section-heading">Molecular Profiling</h2>
+<div class="posts-grid">
+  {% assign profiling_titles = "Proteomics,sc-RNAseq Transcriptomics (Seurat)" | split: "," %}
+  {% for title in profiling_titles %}
+    {% assign post = site.posts | where: "title", title | first %}
+    {% if post %}
+    <div class="post-card">
+      {% if post.thumbnail-img or post.cover-img %}
+      <a href="{{ post.url | absolute_url }}" class="post-card-image-link" aria-label="Thumbnail">
+        <img class="post-card-image" src="{{ post.thumbnail-img | default: post.cover-img | absolute_url }}" alt="Post image">
+      </a>
+      {% endif %}
+      <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
+        {{ post.title }}
+      </a>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
