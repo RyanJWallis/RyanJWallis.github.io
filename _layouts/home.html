@@ -15,15 +15,18 @@ layout: page
   padding-bottom: 0.4rem;
 }
 
+/* Buttons container centered */
 .buttons-container {
   margin-top: 1rem;
   margin-bottom: 2rem;
   display: flex;
+  justify-content: center;  /* Center horizontally */
   gap: 1rem;
 }
 
+/* Button style */
 .github-button {
-  background-color: #24292e;
+  background-color: #24292e; /* GitHub dark */
   color: white;
   border: none;
   border-radius: 6px;
@@ -35,16 +38,16 @@ layout: page
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  transition: background-color 0.2s ease;
+  transition: background-color 0.25s ease;
 }
 
+/* Hover & focus uses brown (#6E6658) consistent with post cards border */
 .github-button:hover,
 .github-button:focus {
-  background-color: #0366d6;
+  background-color: #6E6658;
   outline: none;
 }
 
-/* Existing styles below */
 .posts-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
