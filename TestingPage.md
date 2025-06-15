@@ -32,7 +32,7 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
     </div>
 
     <div style="flex: 1; min-width: 280px;">
-      <h4><i class="fa-solid fa-laptop-code"></i> Bioinformatics & Data Science</h4>
+      <h4><i class="fas fa-laptop-code"></i> Bioinformatics & Data Science</h4>
       <ul>
         <li>Spatial biology: cell phenotyping, neighbourhoods, and spatial metrics</li>
         <li>Spatial transcriptomics analysis: <strong>10x Genomics VisiumHD</strong></li>
