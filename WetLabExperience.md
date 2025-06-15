@@ -19,7 +19,7 @@ title: Lab Experience
   }
 
   details {
-    border: 1px solid #6E6658;
+    border: 1px solid #f7f9fa;
     border-radius: 6px;
     padding: 1rem 1.5rem;
     margin-bottom: 1rem;
