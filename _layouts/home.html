@@ -71,6 +71,17 @@ layout: page
 .post-card-title-link:focus {
   text-decoration: underline;
 }
+
+/* Blue color + colon after first line */
+.post-card-title-link span {
+  color: #02b8de;
+  font-weight: 700;
+}
+
+.post-card-title-link span::after {
+  content: ":";
+  margin-left: 0.25rem;
+}
 </style>
 
 <!-- MACHINE LEARNING SECTION -->
@@ -87,7 +98,9 @@ layout: page
       </a>
       {% endif %}
       <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
-        {{ post.title }}
+        {% assign parts = post.title | split: " - " %}
+        <span>{{ parts[0] }}</span><br>
+        <strong>{{ parts[1] }}</strong>
       </a>
     </div>
     {% endif %}
@@ -108,7 +121,9 @@ layout: page
       </a>
       {% endif %}
       <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
-        {{ post.title }}
+        {% assign parts = post.title | split: " - " %}
+        <span>{{ parts[0] }}</span><br>
+        <strong>{{ parts[1] }}</strong>
       </a>
     </div>
     {% endif %}
