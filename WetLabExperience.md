@@ -4,35 +4,55 @@ title: Lab Experience
 ---
 
 <style>
+  body {
+    background-color: #254E58;
+    color: #f7f9fa;
+  }
+  a {
+    color: #02b8de;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.2s ease;
+  }
+  a:hover {
+    border-bottom: 1px solid #6E6658;
+  }
+
   details {
-    border: 1px solid #ddd;
+    border: 1px solid #f7f9fa;
     border-radius: 6px;
     padding: 1rem 1.5rem;
     margin-bottom: 1rem;
-    background: #fafafa;
+    background: #254E58;
     transition: background 0.3s ease;
   }
   details[open] {
-    background: #f0f8ff;
+    background: #112D32;
   }
+
   summary {
     font-size: 1.3rem;
     font-weight: 600;
     cursor: pointer;
     list-style: none;
+    color: #f7f9fa;
   }
   summary::-webkit-details-marker {
     display: none;
   }
   summary:before {
-    content: "▶";
+    content: "\f054"; /* FA5 caret-right */
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
     display: inline-block;
     margin-right: 10px;
     transition: transform 0.3s ease;
+    color: #02b8de;
   }
   details[open] summary:before {
     transform: rotate(90deg);
   }
+
   ul {
     padding-left: 1.2rem;
     margin-top: 0.5rem;
@@ -40,21 +60,17 @@ title: Lab Experience
   ul li {
     margin-bottom: 0.5rem;
   }
-  a {
-    color: #007ACC;
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-    transition: border-bottom 0.2s ease;
-  }
-  a:hover {
-    border-bottom: 1px solid #007ACC;
+
+  .summary-icon {
+    margin-right: 10px;
+    color: #02b8de;
   }
 </style>
 
 **Whilst I am looking to transition into a bioinformatic role, I also have extensive wet lab experience and understanding of cutting-edge platforms.**
 
 <details open>
-  <summary><strong>🧬 Spatial Profiling</strong></summary>
+  <summary><i class="fas fa-microscope summary-icon"></i>Spatial Profiling</summary>
   <ul>
     <li>Experienced with multiplexed spatial imaging platforms including <strong>Cell DIVE</strong> and <strong>PhenoCycler Fusion</strong>.</li>
     <li>Have run projects dealing with high volumes of slides (50+ Cell DIVE) or biomarkers (60-plex Phenocycler).</li>
@@ -62,7 +78,7 @@ title: Lab Experience
 </details>
 
 <details>
-  <summary><strong>💊 Drug Discovery and Screening</strong></summary>
+  <summary><i class="fas fa-flask summary-icon"></i>Drug Discovery and Screening</summary>
   <ul>
     <li>Delivered lead compound currently under evaluation with a commercial partner - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank">Press Release</a></li>
     <li>Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships.</li>
@@ -72,7 +88,7 @@ title: Lab Experience
 </details>
 
 <details>
-  <summary><strong>🤖 Automation and Robotic Integration</strong></summary>
+  <summary><i class="fas fa-robot summary-icon"></i>Automation and Robotic Integration</summary>
   <ul>
     <li>Robotic automation experience using platforms such as PAA and CyBio FeliX for high-throughput liquid handling and assay miniaturisation.</li>
     <li>Operated BOND Rx automated slide stainer for multiplexed staining protocols.</li>
@@ -81,7 +97,7 @@ title: Lab Experience
 </details>
 
 <details>
-  <summary><strong>🧫 Cell Biology & Senescence Models</strong></summary>
+  <summary><i class="fas fa-vials summary-icon"></i>Cell Biology & Senescence Models</summary>
   <ul>
     <li>Long-term culture of adult primary cells (&gt;200 days) and use of 3D spheroid models.</li>
     <li>Experienced with multiple senescence models: replicative (RS), oncogene-induced (OIS), therapy-induced (TIS), and paracrine senescence.</li>
@@ -90,7 +106,7 @@ title: Lab Experience
 </details>
 
 <details>
-  <summary><strong>📦 Extracellular Vesicle (EV) Isolation & Characterisation</strong></summary>
+  <summary><i class="fas fa-boxes summary-icon"></i>Extracellular Vesicle (EV) Isolation & Characterisation</summary>
   <ul>
     <li>EV isolation via ultracentrifugation and size-exclusion chromatography.</li>
     <li>Characterisation using nanoparticle tracking analysis (NTA) and nano-flow cytometry.</li>
@@ -98,7 +114,7 @@ title: Lab Experience
 </details>
 
 <details>
-  <summary><strong>🧬 Molecular Biology Techniques</strong></summary>
+  <summary><i class="fas fa-dna summary-icon"></i>Molecular Biology Techniques</summary>
   <ul>
     <li>Proficient in standard laboratory techniques including Western blotting, ELISA, PCR, and qPCR.</li>
   </ul>
