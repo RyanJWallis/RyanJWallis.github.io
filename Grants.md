@@ -86,6 +86,7 @@ title: Grants and Awards
 
 ### <span class="section-title">Awards & Prizes</span>
 
+- **FMD Staff Awards Nomination** – Outstanding Early Career Researcher (Sept 2022)  
 - **1st Poster Prize**, London Inflammation Network (Sept 2018)  
 - **1st Poster Prize**, Blizard Institute Graduate Studies Day (May 2018)  
 - Selected abstracts / invited talks at 9 international/national conferences and symposia  
@@ -94,8 +95,7 @@ title: Grants and Awards
 
 ### <span class="section-title">Not Funded / Pending Applications</span>
 
-- **FMD Staff Awards Nomination** – Outstanding Early Career Researcher (Sept 2022)  
-- **BBSRC Mid-range Equipment Call** – £806K (Co-lead, awaiting outcome)  
+- **BBSRC Mid-range Equipment Call** – £806K (Co-lead)  
 - **Wellcome Trust Early Career Fellowship** – £1.2M (Shortlisted for interview, Oct 2023)
 
 ---
