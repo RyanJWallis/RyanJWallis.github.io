@@ -117,7 +117,7 @@ title: Grants and Awards
 <div class="grant-bar-container" data-amount="806000" data-pending>
   <div class="grant-title">BBSRC Mid-range Equipment Call (Co-lead)</div>
   <div class="progress-bar"><div class="progress-fill pending"></div></div>
-  <div class="grant-amount">£806K (Awaiting Outcome)</div>
+  <div class="grant-amount">£806K (2025)</div>
 </div>
 
 <div class="grant-bar-container" data-amount="1200000" data-pending>
