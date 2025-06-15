@@ -4,6 +4,14 @@ layout: base
 
 {% include header.html type="page" %}
 
+<style>
+  /* Make main page titles smaller */
+  .col-xl-8 h1, .col-lg-10 h1 {
+    font-size: 2rem;  /* adjust size as you like */
+    margin-bottom: 1rem;
+  }
+</style>
+
 <main class="container-fluid">
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
