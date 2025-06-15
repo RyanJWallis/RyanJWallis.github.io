@@ -64,7 +64,7 @@ subtitle: R (Fluent) | Python (Intermediate)
   }
 </style>
 
-<details open>
+<details >
   <summary><i class="fas fa-server summary-icon"></i>Bioinformatics Service</summary>
   <p>
     I established and lead the phenotypic screening facility’s bioinformatics service, providing bespoke computational support to academic and industry users. This chargeable service supports a wide range of life science disciplines, including cancer biology, immunology, neuroscience, developmental biology, and skin research.
