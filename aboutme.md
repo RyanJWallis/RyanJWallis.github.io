@@ -5,33 +5,54 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 ---
 
 <style>
-  .bio-section {
+  /* Role summary paragraph styling (unchanged) */
+  .role-summary {
     margin-top: 2rem;
     font-size: 1.05rem;
     line-height: 1.6;
   }
 
+  /* Container for the two info boxes side-by-side */
   .info-container {
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 2rem;
   }
 
+  /* Styling for each info box */
   .info-box {
-    flex: 1 1 300px;
+    background: #112D32;
+    border: 1px solid #6E6658;
+    border-radius: 8px;
+    padding: 16px 20px;
+    color: #f7f9fa;
+    font-size: 1rem;
+    flex: 1 1 320px;
     max-width: 480px;
-    margin: 1rem 0;
   }
 
+  /* Titles with blue icons */
   .info-box h4 {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.6rem;
+    margin-bottom: 1rem;
   }
 
   .info-box h4 i {
-    color: #02b8de; /* blue icon color */
+    color: #02b8de;
+  }
+
+  /* List styling */
+  .info-box ul {
+    padding-left: 1.2rem;
+    margin: 0;
+  }
+
+  .info-box li {
+    margin-bottom: 0.6rem;
   }
 </style>
 
@@ -44,7 +65,7 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 
 <hr style="margin: 2rem 0;">
 
-<div class="bio-section">
+<div class="role-summary">
   <p>
     I support academic and industry collaborators across a range of advanced screening and spatial biology platforms. My role bridges the fields of multiplexed imaging, high-content screening, and computational analysis.
   </p>
@@ -79,3 +100,6 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 <p style="text-align: center; font-style: italic;">
   This website highlights selected projects and a summary of my research and technical experience.
 </p>
+
+<!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
