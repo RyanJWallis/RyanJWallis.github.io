@@ -76,7 +76,7 @@ layout: page
 <!-- MACHINE LEARNING SECTION -->
 <h2 class="section-heading">Machine Learning</h2>
 <div class="posts-grid">
-  {% assign ml_titles = "Supervised ML - SAMP-Score,Supervised ML – SenPred,Unsupervised ML - SAMPs" | split: "," %}
+  {% assign ml_titles = "Supervised ML - SAMP-Score,Supervised ML - SenPred,Unsupervised ML - SAMPs" | split: "," %}
   {% for title in ml_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
