@@ -112,7 +112,7 @@ title: Grants and Awards
 
 ---
 
-### <span class="section-title">Not Funded / Pending Applications</span>
+### <span class="section-title">Not Funded
 
 <div class="grant-bar-container" data-amount="806000" data-pending>
   <div class="grant-title">BBSRC Mid-range Equipment Call (Co-lead)</div>
