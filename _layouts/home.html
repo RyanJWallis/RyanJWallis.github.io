@@ -76,7 +76,7 @@ layout: page
 <!-- MACHINE LEARNING SECTION -->
 <h2 class="section-heading">Machine Learning</h2>
 <div class="posts-grid">
-  {% assign ml_titles = "Supervised ML – SAMP-Score,Supervised ML – SenPred,Unsupervised ML – SAMPs" | split: "," %}
+  {% assign ml_titles = "Supervised ML - SAMP-Score,Supervised ML – SenPred,Unsupervised ML - SAMPs" | split: "," %}
   {% for title in ml_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
@@ -97,7 +97,7 @@ layout: page
 <!-- MOLECULAR PROFILING SECTION -->
 <h2 class="section-heading">Molecular Profiling</h2>
 <div class="posts-grid">
-  {% assign profiling_titles = "sc-RNAseq – Seurat,Proteomic assessment of senescence exosomes" | split: "," %}
+  {% assign profiling_titles = "sc-RNAseq - Seurat,Proteomics - Exosomes in Senescence" | split: "," %}
   {% for title in profiling_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
