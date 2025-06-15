@@ -15,8 +15,6 @@ title: Publications
   
   .pub-entry {
     background: #112D32;
-    border: 1px solid #254E58;
-    border-radius: 8px;
     padding: 12px 16px;
     margin: 12px 0;
     color: #f7f9fa;
