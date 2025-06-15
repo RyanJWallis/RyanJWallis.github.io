@@ -28,7 +28,7 @@ title: Lab Experience
 --- 
 
 ### Cell Biology & Senescence Models
-- Long-term culture of adult primary cells (>200 days), including antibiotic-free culture and use of 3D spheroid models.
+- Long-term culture of adult primary cells (>200 days) and use of 3D spheroid models.
 - Experienced with multiple senescence models: replicative (RS), oncogene-induced (OIS), therapy-induced (TIS), and paracrine senescence.
 - Maintained a range of cancer cell lines (e.g. MB-468, MB-231, BT549, HCC1937, HeLa) in antibiotic-free conditions.
 
