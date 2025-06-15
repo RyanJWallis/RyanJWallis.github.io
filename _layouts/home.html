@@ -13,6 +13,13 @@ layout: page
   text-align: left;
   border-bottom: 2px solid #ccc;
   padding-bottom: 0.4rem;
+  color: #02b8de;
+}
+
+.section-heading::after {
+  content: ":";
+  margin-left: 0.25rem;
+  color: #02b8de;
 }
 
 .posts-grid {
@@ -32,8 +39,7 @@ layout: page
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   cursor: pointer;
   color: #f7f9fa;
-
-  height: 420px; /* fixed height for uniformity */
+  height: 420px;
 }
 
 .post-card:hover,
@@ -46,15 +52,15 @@ layout: page
   display: block;
   overflow: hidden;
   flex-shrink: 0;
-  height: 180px; /* fixed height for image container */
+  height: 180px;
 }
 
 .post-card-image {
   width: 100%;
   height: 100%;
-  object-fit: contain; /* scale image without cropping */
+  object-fit: contain;
   transition: transform 0.3s ease;
-  background: white; /* optional background so transparent parts show nicely */
+  background: white;
 }
 
 .post-card:hover .post-card-image,
@@ -64,40 +70,28 @@ layout: page
 
 .post-card-title-link {
   padding: 1rem 1.25rem 1.25rem 1.25rem;
-  flex-grow: 1; /* fill remaining card space */
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center; /* vertical center text */
+  justify-content: center;
   color: #f7f9fa;
   text-decoration: none;
   font-size: 1.25rem;
   font-weight: 600;
   line-height: 1.3;
-  white-space: pre-line; /* enable new lines from \n */
+  white-space: normal;
 }
 
 .post-card-title-link:hover,
 .post-card-title-link:focus {
   text-decoration: underline;
 }
-
-.project-title {
-  color: #02b8de; /* blue color for section titles */
-  font-weight: 700;
-  margin-bottom: 0.5rem;
-}
-
-.project-title::after {
-  content: ":";
-  margin-left: 0.25rem;
-  color: #02b8de;
-}
 </style>
 
 <!-- MACHINE LEARNING SECTION -->
 <h2 class="section-heading">Machine Learning</h2>
 <div class="posts-grid">
-  {% assign ml_titles = "Supervised ML\nSAMP-Score,Supervised ML\nSenPred,Unsupervised ML\nSAMPs" | split: "," %}
+  {% assign ml_titles = "SAMP-Score,SenPred,SAMPs" | split: "," %}
   {% for title in ml_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
@@ -108,7 +102,16 @@ layout: page
       </a>
       {% endif %}
       <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
-        {{ title }}
+        {% case title %}
+          {% when "SAMP-Score" %}
+            Supervised ML<br>SAMP-Score
+          {% when "SenPred" %}
+            Supervised ML<br>SenPred
+          {% when "SAMPs" %}
+            Unsupervised ML<br>SAMPs
+          {% else %}
+            {{ title }}
+        {% endcase %}
       </a>
     </div>
     {% endif %}
@@ -118,7 +121,7 @@ layout: page
 <!-- MOLECULAR PROFILING SECTION -->
 <h2 class="section-heading">Molecular Profiling</h2>
 <div class="posts-grid">
-  {% assign profiling_titles = "sc-RNAseq\nSeurat,Proteomics\nExosomes in Senescence" | split: "," %}
+  {% assign profiling_titles = "sc-RNAseq – Seurat,Proteomics – Exosomes in Senescence" | split: "," %}
   {% for title in profiling_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
@@ -129,7 +132,14 @@ layout: page
       </a>
       {% endif %}
       <a href="{{ post.url | absolute_url }}" class="post-card-title-link">
-        {{ title }}
+        {% case title %}
+          {% when "sc-RNAseq – Seurat" %}
+            sc-RNAseq<br>Seurat
+          {% when "Proteomics – Exosomes in Senescence" %}
+            Proteomics<br>Exosomes in Senescence
+          {% else %}
+            {{ title }}
+        {% endcase %}
       </a>
     </div>
     {% endif %}
