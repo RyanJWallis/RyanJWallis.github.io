@@ -48,8 +48,8 @@ layout: page
 
 .post-card-image {
   width: 100%;
-  height: 160px;
-  object-fit: cover; /* Ensures image scales nicely and covers area */
+  height: auto; /* Let height adjust proportionally */
+  object-fit: contain; /* Just in case, keeps image aspect ratio */
   transition: transform 0.3s ease;
 }
 
