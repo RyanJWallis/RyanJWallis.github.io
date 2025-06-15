@@ -6,7 +6,8 @@ title: Publications
 <style>
   h3.theme-title {
     color: #02b8de;
-    border-bottom: 2px solid #02b8de;
+    /* Remove the border bottom */
+    border-bottom: none;
     padding-bottom: 0.3rem;
     margin-top: 2rem;
     font-weight: 600;
@@ -19,6 +20,8 @@ title: Publications
     margin: 12px 0;
     color: #f7f9fa;
     font-family: Arial, sans-serif;
+    border: 1px solid #6E6658;  /* brownish border */
+    border-radius: 8px;
   }
 
   .pub-title {
@@ -51,6 +54,7 @@ title: Publications
     margin-right: 6px;
   }
 </style>
+
 
 ## Research Themes and Publications
 
