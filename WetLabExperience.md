@@ -13,7 +13,8 @@ title: Lab Experience
 --- 
 
 ### Drug Discovery and Screening
-- Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships, consistently delivering on time in a highly milestones-driven project.
+- Delivered lead compound currently under evaluation with a commercial partner -  <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a>
+- Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships
 - Conducted high-throughput compound screening in 384-well format across multiple cancer cell lines.
 - Operated IN Cell Analyzer 2200/6000 (including confocal mode) for high-content automated imaging.
 
