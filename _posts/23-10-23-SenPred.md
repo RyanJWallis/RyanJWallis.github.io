@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SenPred
+title: Supervised ML - SenPred
 subtitle: sc-RNAseq machine learning tool for senescence classification
 thumbnail-img: /assets/img/SenPred.png
 tags: [R,sc-RNAseq, Transcriptomics, Supervised Machine Learning]
