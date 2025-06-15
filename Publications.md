@@ -66,7 +66,7 @@ title: Publications
   <div class="pub-journal"><em>bioRxiv</em></div>
   <div class="pub-links">
     <a href="https://www.biorxiv.org/content/10.1101/2025.06.09.658585v1" target="_blank" rel="noopener">
-      <i class="fas fa-file-pdf"></i>Preprint
+      <i class="fas fa-link"></i>PMID: 39187617
     </a>
   </div>
 </div>
