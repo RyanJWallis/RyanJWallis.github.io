@@ -49,8 +49,6 @@ title: Grants and Awards
     margin-top: 2rem;
     font-size: 1.3rem;
     color: #f7f9fa;
-    border-bottom: 2px solid #f7f9fa;
-    padding-bottom: 4px;
   }
 
   .award-box {
