@@ -2,7 +2,7 @@
 layout: post
 title: Supervised ML - SAMP-Score
 subtitle: Machine learning classifier for identifying novel pro-senescence compounds in p16-positive cancers
-thumbnail-img: /assets/img/SAMP_Score.png
+thumbnail-img: /assets/img/SAMPScore_Full_Update.png
 tags: [R,Phenotypic Profiling, Supervised Machine Learning]
 author: Ryan J Wallis, PhD
 ---
