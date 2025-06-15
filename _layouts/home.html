@@ -1,105 +1,114 @@
----
-layout: page
----
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
 
-{{ content }}
+.post-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  cursor: pointer;
+}
 
-{% assign posts = paginator.posts | default: site.posts %}
+.post-card:hover, .post-card:focus-within {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+  outline: none;
+}
 
-<!-- Posts grid wrapper -->
-<div class="posts-grid">
-  <ul class="posts-list list-unstyled" role="list">
-    {% for post in posts %}
-    <li class="post-preview">
-      <article>
+.post-card-image-link {
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
 
-        {%- capture thumbnail -%}
-          {% if post.thumbnail-img %}
-            {{ post.thumbnail-img }}
-          {% elsif post.cover-img %}
-            {% if post.cover-img.first %}
-              {{ post.cover-img[0].first.first }}
-            {% else %}
-              {{ post.cover-img }}
-            {% endif %}
-          {% else %}
-          {% endif %}
-        {% endcapture %}
-        {% assign thumbnail=thumbnail | strip %}
+.post-card-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
 
-        {% if thumbnail != "" %}
-        <div class="post-image">
-          <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
-            <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
-          </a>
-        </div>
-        {% endif %}
+.post-card:hover .post-card-image,
+.post-card:focus-within .post-card-image {
+  transform: scale(1.05);
+}
 
-        <a href="{{ post.url | absolute_url }}">
-          <h2 class="post-title">{{ post.title | strip_html }}</h2>
+.post-card-content {
+  padding: 1.25rem 1.5rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
 
-          {% if post.subtitle %}
-            <h3 class="post-subtitle">
-              {{ post.subtitle | strip_html }}
-            </h3>
-          {% endif %}
-        </a>
+.post-card-title-link {
+  color: #222;
+  text-decoration: none;
+}
 
-        {% if post.author %}
-          <span>By <strong>{{ post.author | strip_html }}</strong></span>
-        {% endif %}
-        <p class="post-meta">
-          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-          Posted on {{ post.date | date: date_format }}
-        </p>
+.post-card-title {
+  font-size: 1.4rem;
+  margin: 0 0 0.5rem 0;
+}
 
-        {% unless site.feed_show_excerpt == false %}
-        <div class="post-entry">
-          {% assign excerpt_length = site.excerpt_length | default: 50 %}
-          {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
-          {% assign excerpt_word_count = post.excerpt | number_of_words %}
-          {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-            <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
-          {% endif %}
-        </div>
-        {% endunless %}
+.post-card-subtitle {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 1rem;
+  flex-shrink: 0;
+}
 
-        {% if site.feed_show_tags != false and post.tags.size > 0 %}
-        <div class="blog-tags">
-          <span>Tags:</span>
-          <ul class="d-inline list-inline" role="list">
-            {% for tag in post.tags %}
-            <li class="list-inline-item">
-              <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
+.post-card-meta {
+  font-size: 0.85rem;
+  color: #999;
+  margin-bottom: 1rem;
+}
 
-      </article>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+.post-card-excerpt {
+  flex-grow: 1;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #444;
+  margin-bottom: 1rem;
+}
 
-{% if paginator.total_pages > 1 %}
-<ul class="pagination main-pager">
-  {% if paginator.previous_page %}
-  <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">
-      <i class="fas fa-arrow-left" alt="Newer Posts"></i>
-      <span class="d-none d-sm-inline-block">Newer Posts</span>
-    </a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">
-      <span class="d-none d-sm-inline-block">Older Posts</span>
-      <i class="fas fa-arrow-right" alt="Older Posts"></i>
-    </a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+.post-read-more {
+  font-weight: 600;
+  color: #007bff;
+  text-decoration: none;
+  font-size: 0.9rem;
+  align-self: flex-start;
+}
+
+.post-read-more:hover,
+.post-read-more:focus {
+  text-decoration: underline;
+}
+
+.post-card-tags {
+  margin-top: auto;
+  padding-top: 0.5rem;
+}
+
+.post-tag {
+  display: inline-block;
+  background-color: #e1ecf4;
+  color: #0366d6;
+  border-radius: 15px;
+  padding: 0.2rem 0.7rem;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.post-tag:hover,
+.post-tag:focus {
+  background-color: #c7def8;
+}
