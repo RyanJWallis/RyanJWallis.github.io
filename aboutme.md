@@ -8,6 +8,7 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
   .profile-box {
     text-align: center;
     margin-bottom: 2rem;
+    color: #f7f9fa;
   }
 
   .profile-box img {
@@ -16,39 +17,33 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
     margin-bottom: 1rem;
   }
 
-  .icon-section {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
-    margin-top: 2rem;
-  }
-
-  .icon-box {
-    flex: 1;
-    min-width: 280px;
+  .section-box {
+    background-color: #254E58;
     border: 2px solid #6E6658;
     border-radius: 12px;
-    padding: 1rem 1.5rem;
-    background-color: #254E58;
+    padding: 1.5rem;
+    margin: 2rem 0;
     color: #f7f9fa;
+    font-size: 1.05rem;
+    line-height: 1.6;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
   }
 
-  .icon-box h4 {
+  .section-box h4 {
     margin-bottom: 1rem;
     color: #f7f9fa;
+    font-size: 1.2rem;
   }
 
-  .icon-box i {
+  .section-box i {
     color: #02b8de;
     margin-right: 0.5rem;
   }
 
-  .bio-text {
-    margin-top: 2rem;
-    font-size: 1.05rem;
-    line-height: 1.6;
-    color: #f7f9fa;
+  hr {
+    margin: 2rem 0;
+    border: none;
+    border-top: 1px solid #6E6658;
   }
 
   .bottom-note {
@@ -56,12 +51,6 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
     font-style: italic;
     color: #f7f9fa;
     margin-top: 3rem;
-  }
-
-  hr {
-    margin: 2rem 0;
-    border: none;
-    border-top: 1px solid #6E6658;
   }
 </style>
 
@@ -74,37 +63,34 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 
 <hr>
 
-<div class="bio-text">
+<div class="section-box">
+  <h4><i class="fas fa-user-cog"></i> Role Summary</h4>
   <p>
     I support academic and industry collaborators across a range of advanced screening and spatial biology platforms. My role bridges the fields of multiplexed imaging, high-content screening, and computational analysis.
   </p>
-
-  <div class="icon-section">
-    <div class="icon-box">
-      <h4><i class="fas fa-microscope"></i> Technologies & Platforms</h4>
-      <ul>
-        <li><strong>Cell DIVE, Phenocycler Fusion</strong> – multiplexed spatial immunofluorescence</li>
-        <li><strong>Leica BOND RX, BAB200, PAA</strong> – automated slide staining & robotics</li>
-        <li><strong>INCA 2200 & 6000</strong> – high-throughput microscopy systems</li>
-        <li><strong>Cybio Felix, Thermo MultiDrop</strong> – liquid handling automation</li>
-        <li><strong>HALO, Developer Toolbox, INCarta</strong> – digital pathology & image analysis</li>
-      </ul>
-    </div>
-
-    <div class="icon-box">
-      <h4><i class="fas fa-laptop-code"></i> Bioinformatics & Data Science</h4>
-      <ul>
-        <li>Spatial biology: cell phenotyping, neighbourhoods, and proximity metrics</li>
-        <li>Machine learning pipelines for high-content imaging and drug discovery</li>
-        <li>Development of AI tools for prognostic modelling in cancer</li>
-        <li>Spatial transcriptomics analysis: <strong>10x Genomics VisiumHD</strong></li>
-        <li>Introductory coding workshops with emphasis on <strong>R</strong></li>
-      </ul>
-    </div>
-  </div>
 </div>
 
-<hr>
+<div class="section-box">
+  <h4><i class="fas fa-microscope"></i> Technologies & Platforms</h4>
+  <ul>
+    <li><strong>Cell DIVE, Phenocycler Fusion</strong> – multiplexed spatial immunofluorescence</li>
+    <li><strong>Leica BOND RX, BAB200, PAA</strong> – automated slide staining & robotics</li>
+    <li><strong>INCA 2200 & 6000</strong> – high-throughput microscopy systems</li>
+    <li><strong>Cybio Felix, Thermo MultiDrop</strong> – liquid handling automation</li>
+    <li><strong>HALO, Developer Toolbox, INCarta</strong> – digital pathology & image analysis</li>
+  </ul>
+</div>
+
+<div class="section-box">
+  <h4><i class="fas fa-laptop-code"></i> Bioinformatics & Data Science</h4>
+  <ul>
+    <li>Spatial biology: cell phenotyping, neighbourhoods, and proximity metrics</li>
+    <li>Machine learning pipelines for high-content imaging and drug discovery</li>
+    <li>Development of AI tools for prognostic modelling in cancer</li>
+    <li>Spatial transcriptomics analysis: <strong>10x Genomics VisiumHD</strong></li>
+    <li>Introductory coding workshops with emphasis on <strong>R</strong></li>
+  </ul>
+</div>
 
 <p class="bottom-note">
   This website highlights selected projects and a summary of my research and technical experience.
