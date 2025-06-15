@@ -135,7 +135,6 @@ subtitle: R (Fluent) | Python (Intermediate)
 
 <details>
   <summary><i class="fas fa-dna summary-icon"></i>Genomic / Proteomic Analysis</summary>
-   <p>
   <strong>Projects:</strong>
     <li>Proteomic assessment of mass spectrometry data from exosomes and conditioned media - <a href="https://ryanjwallis.github.io/2021-02-18-Senescent-Exosomes/" target="_blank">Project Link</a></li>
     <li>sc-RNAseq transcriptomics analysis using example datasets from satijalab - <a href="https://ryanjwallis.github.io/22023-10-01-Seurat-scRNAseq-Transcriptomics/" target="_blank">Project Link</a></li>
