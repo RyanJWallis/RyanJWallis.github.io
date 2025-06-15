@@ -15,7 +15,7 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 
 <div class="bio-section" style="margin-top: 2rem; font-size: 1.05rem; line-height: 1.6;">
   <p>
-    I support academic and industry collaborators across a range of advanced screening and spatial biology platforms. My role bridges experimental automation, high-content imaging, and computational analysis.
+    I support academic and industry collaborators across a range of advanced screening and spatial biology platforms. My role bridges the fields of spatial biology, high-content imaging, and computational analysis.
   </p>
 
   <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
