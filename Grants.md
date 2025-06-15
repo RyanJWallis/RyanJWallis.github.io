@@ -43,14 +43,11 @@ title: Grants and Awards
     margin-top: 2rem;
     font-size: 1.3rem;
     color: #f7f9fa;
-    border-bottom: 2px solid #f7f9fa;
-    padding-bottom: 4px;
+
   }
 </style>
 
-## Grants & Awards Summary
-
-### <span class="section-title">Funding</span>
+## <span class="section-title">Funding</span>
 
 <div class="grant-bar-container" data-amount="2100000">
   <div class="grant-title">QMUK Research Capital Investment Fund — <em>Functional Genomics Hub</em></div>
