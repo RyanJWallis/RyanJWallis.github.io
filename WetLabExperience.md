@@ -8,13 +8,13 @@ title: Lab Experience
 
 ### Spatial Profiling
 - Experienced with multiplexed spatial imaging platforms including **Cell DIVE** and **PhenoCycler Fusion**.
-- Have run projects dealing with high volumes of slides (50+ Cell DIVE) or biomarkers (60-plex Phenocycler)
+- Have run projects dealing with high volumes of slides (50+ Cell DIVE) or biomarkers (60-plex Phenocycler).
   
 --- 
 
 ### Drug Discovery and Screening
 - Delivered lead compound currently under evaluation with a commercial partner -  <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank"> Press Release </a>
-- Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships
+- Numerous rounds of lead optimisation as part of a multidisciplinary cross-University team (Dundee Drug Discovery Unit) to explore series structural activity relationships.
 - Conducted high-throughput compound screening in 384-well format across multiple cancer cell lines.
 - Operated IN Cell Analyzer 2200/6000 (including confocal mode) for high-content automated imaging.
 
@@ -28,7 +28,7 @@ title: Lab Experience
 --- 
 
 ### Cell Biology & Senescence Models
-- Long-term culture of adult primary cells (>200 days), including antibiotic free culture and use of 3D spheroid models.
+- Long-term culture of adult primary cells (>200 days), including antibiotic-free culture and use of 3D spheroid models.
 - Experienced with multiple senescence models: replicative (RS), oncogene-induced (OIS), therapy-induced (TIS), and paracrine senescence.
 - Maintained a range of cancer cell lines (e.g. MB-468, MB-231, BT549, HCC1937, HeLa) in antibiotic-free conditions.
 
