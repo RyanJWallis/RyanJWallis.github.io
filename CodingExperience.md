@@ -79,7 +79,6 @@ subtitle: R (Fluent) | Python (Intermediate)
 
 <details>
   <summary><i class="fas fa-robot summary-icon"></i>Machine Learning (ML) and Artificial Intelligence (AI)</summary>
-  <p>
   <strong>Techniques:</strong>
   <ul>
     <li><strong>Supervised learning:</strong> Logistic regression, Lasso regularisation, Elastic Net, Support Vector Machines (SVM), Random Forest, Multiple Discriminant Analysis, Neural Networks</li>
@@ -100,7 +99,6 @@ subtitle: R (Fluent) | Python (Intermediate)
 
 <details>
   <summary><i class="fas fa-image summary-icon"></i>High-Content Image Analysis</summary>
-  <p>
   <strong>Techniques:</strong>
   <ul>
     <li><strong>Analysis:</strong> Z-Scores, cluster-analysis, IC50s, batch normalisation</li>
@@ -139,7 +137,6 @@ subtitle: R (Fluent) | Python (Intermediate)
   <summary><i class="fas fa-dna summary-icon"></i>Genomic / Proteomic Analysis</summary>
    <p>
   <strong>Projects:</strong>
-  <ul>
     <li>Proteomic assessment of mass spectrometry data from exosomes and conditioned media - <a href="https://ryanjwallis.github.io/2021-02-18-Senescent-Exosomes/" target="_blank">Project Link</a></li>
     <li>sc-RNAseq transcriptomics analysis using example datasets from satijalab - <a href="https://ryanjwallis.github.io/22023-10-01-Seurat-scRNAseq-Transcriptomics/" target="_blank">Project Link</a></li>
   </ul>
@@ -147,7 +144,6 @@ subtitle: R (Fluent) | Python (Intermediate)
 
 <details>
   <summary><i class="fas fa-graduation-cap summary-icon"></i>Formal Courses</summary>
-  <p>
   <ul>
     <li>DataCamp “Data Scientist with R” track (88-hour online course).</li>
     <li>Biochemical Society “R for Biochemists 101” (5-week online introduction to R).</li>
