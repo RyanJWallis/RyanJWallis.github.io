@@ -158,7 +158,7 @@ layout: page
 <!-- MOLECULAR PROFILING SECTION -->
 <h2 class="section-heading">Molecular Profiling</h2>
 <div class="posts-grid">
-  {% assign profiling_titles = "sc-RNAseq - Seurat,Proteomics - Exosomes in Senescence" | split: "," %}
+  {% assign profiling_titles = "sc-RNAseq - Seurat,Proteomics - Exosomes in Senescence,Spatial Biology - Cell Neighbourhood Analysis" | split: "," %}
   {% for title in profiling_titles %}
     {% assign post = site.posts | where: "title", title | first %}
     {% if post %}
@@ -177,3 +177,4 @@ layout: page
     {% endif %}
   {% endfor %}
 </div>
+
