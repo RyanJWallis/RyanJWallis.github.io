@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Spatial Biology 
-subtitle:  Cell Neighbourhood Analysis
+title: Spatial Biology - Cell Neighbourhood Analysis
+subtitle:  Multiplex Immunofluorescence
 thumbnail-img: /assets/img/NN.png
 tags: [R, R Markdown, Spatial Biology, Multiplex Imaging, Supervised Machine Learning]
 author: Ryan J Wallis, PhD
