@@ -18,3 +18,5 @@ A key area of interest in my research is the exploration of **"Cell Neighbourhoo
 - Development of a **prognostic model for oral cancer**
 - Assessment of **immune cell populations** in cancer across different ethnic backgrounds, tissue regions, and cancer types
 - Analysis of the **distribution of senescent cells** within human skin
+
+<img src="https://RyanJWallis.github.io/assets/img/Core_1.png" class="mx-auto d-block">
