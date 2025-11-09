@@ -65,9 +65,9 @@ title: Publications
 <div class="pub-entry">
   <div class="pub-authors">Wallis, R. et al., (2025)</div>
   <div class="pub-title">SAMP-Score: A morphology-based machine learning method for identifying novel pro-senescence compounds in p16 positive cancers</div>
-  <div class="pub-journal"><em>bioRxiv</em></div>
+  <div class="pub-journal"><em>Aging</em></div>
   <div class="pub-links">
-    <a href="https://www.biorxiv.org/content/10.1101/2025.06.09.658585v1" target="_blank" rel="noopener">
+    <a href="https://www.aging-us.com/article/206333/text" target="_blank" rel="noopener">
       <i class="fas fa-link"></i>Preprint
     </a>
   </div>
