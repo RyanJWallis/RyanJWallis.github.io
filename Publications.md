@@ -68,7 +68,7 @@ title: Publications
   <div class="pub-journal"><em>Aging</em></div>
   <div class="pub-links">
     <a href="https://www.aging-us.com/article/206333/text" target="_blank" rel="noopener">
-      <i class="fas fa-link"></i>Preprint
+      <i class="fas fa-link"></i>PMID: 41182172
     </a>
   </div>
 </div>
