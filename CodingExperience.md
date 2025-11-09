@@ -106,7 +106,7 @@ subtitle: R (Fluent) | Python (Intermediate)
   </ul>
   <strong>Projects:</strong>
   <ul>
-    <li>Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://ryanjwallis.github.io/22022-05-16-SAMPs/" target="_blank">Project Link</a></li>
+    <li>Unsupervised characterisation of senescence via phenotypic assessment of morphology - <a href="https://github.com/RyanJWallis/Senescence-associated-morphological-profiles_SAMPs/" target="_blank">Project Link</a></li>
     <li>Phenocopying methodology comparing a genome-wide siRNA screen to a novel compound for target identification (<em>in evaluation phase with commercial partner</em>) - <a href="https://www.qmul.ac.uk/blizard/about/news/items/queen-mary-research-team-heads-discovery-of-a-new-method-to-stop-the-growth-of-cancer-cells.html" target="_blank">Press Release</a></li>
     <li>Developed reusable pipelines and HTML guides for users to standardise imaging data analysis - <a href="https://github.com/Phenotypic-Screening-QMUL/InCarta-Scripts" target="_blank">GitHub</a></li>
   </ul>
