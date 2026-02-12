@@ -60,7 +60,7 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
   <img src="https://RyanJWallis.github.io/assets/img/Ryan_2.jpg" alt="Ryan Wallis, PhD" style="max-width: 200px; border-radius: 50%; margin-bottom: 1rem;">
   <h2>Ryan Wallis</h2>
   <h4> Lead Bioinformatician / Deputy Manager </h4>
-  <h5> Phenotypic Screening Facility  <h5>
+  <h5> Phenotypic Screening Facility <h5>
   <h5>Blizard Institute, Queen Mary University of London (QMUL)</h5>
 </div>
 
