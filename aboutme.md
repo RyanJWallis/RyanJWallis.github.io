@@ -57,7 +57,7 @@ subtitle: PhD (Cell Biology) | MSc / BSc (Pharmacology)
 </style>
 
 <div style="text-align: center;">
-  <img src="https://RyanJWallis.github.io/assets/img/Ryan_2.jpg" alt="Ryan Wallis, PhD" style="max-width: 200px; border-radius: 50%; margin-bottom: 1rem;">
+  <img src="https://RyanJWallis.github.io/assets/img/IMG_3839.JPG" alt="Ryan Wallis, PhD" style="max-width: 200px; border-radius: 50%; margin-bottom: 1rem;">
   <h2>Ryan Wallis</h2>
   <h5> Lead Bioinformatician / Deputy Manager </h5>
   <h4> Phenotypic Screening Facility </h4>
